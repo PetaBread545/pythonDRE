@@ -1,0 +1,1000 @@
+"ParticipantResearchID_Synthetic","AgeAtEnrollment","GenderName","MaritalStatusName","RaceName","EthnicityName","PreferredLanguageName","ICD10.integer_NEW","Sum_AEB","Sum_Frequency","Sum_hours","Height_mean","Weight_mean"
+10131,21,"Female","Unmarried","African American","Non-Hispanic or Latino","English",0,21507.1036582547,39764,502.118223146033,168.081344682327,77.96541729925
+10154,69,"Female","Married","Caucasian","Non-Hispanic or Latino","English",139,21323.7542004319,29,257.117979088185,175.26,92.6235
+10176,48,"Female","Married","African American","Non-Hispanic or Latino","English",82,29873.0498071899,58987.191046798,698.673046133605,165.1,78.4714
+11688,45,"Male","Married","Caucasian","Non-Hispanic or Latino","English",124,58438.706,84401,1245.765,171.45,89.0540864865674
+11733,32,"Male","Unmarried","Asian","Non-Hispanic or Latino","English",81,32359.236,66010.0533511654,753.915,168.91,80.1504892013825
+11939,33,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",4,60445.031,105287.57643336,1002.26027265,171.538512615627,71.5992
+12075,42,"Male","Married","Caucasian","Non-Hispanic or Latino","English",59,49333.3305908572,93983,833.332356666,177.8,90.3386715102263
+12289,42,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",87,65430.5518924198,106030,1068.922778,170.2735714,94.5869
+12797,50,"Female","Married","Asian","Unknown","English",110,16953.219,51614,401.3308333,163.83,63.4122
+12944,34,"Female","Unmarried","African American","Non-Hispanic or Latino","English",27,4760.731,7988,178.14081999935,167.014583331411,113.625
+12970,33,"Female","Unmarried","African American","Non-Hispanic or Latino","English",344,2131.677,20261.3674194506,56.315,163.61273407696,58.2866
+13070,46,"Female","Married","African American","Non-Hispanic or Latino","English",155,60813.115,75464,1020.378889,172.864584551839,130.725
+13314,51,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",0,60210.106,87122.147531303,890.804442054517,168.999,79.5218940500642
+13338,39,"Female","Unmarried","Other","Non-Hispanic or Latino","English",105,2.194,34006.1560281494,282.226222476621,156.845,53.0249
+13819,52,"Male","Married","Caucasian","Non-Hispanic or Latino","English",142,32909.39,61147.2320771898,753.9352778,177.639892977753,91.73895
+14069,45,"Female","Married","Asian","Non-Hispanic or Latino","English",0,14010.3157407524,30816.6374618271,113.2563889,157.48,80.6487
+14669,41,"Female","Unknown","Asian","Non-Hispanic or Latino","English",135,4631.738,9897,102.076364632333,163.83,69.9044973805425
+14876,37,"Female","Unmarried","African American","Non-Hispanic or Latino","English",196,20244.0868949825,32249.985,414.5308333,154.94,65.52203333
+14945,22,"Male","Unmarried","Asian","Non-Hispanic or Latino","English",0,25107.874,44589,428.773604514059,177.28076,87.2257
+15314,34,"Male","Unmarried","Asian","Non-Hispanic or Latino","English",5,53740.162,136957,996.330992319182,168.23312739799,58.6494
+15848,74,"Male","Unknown","Caucasian","Non-Hispanic or Latino","English",129,47455.975,78006.0721946789,1052.233889,176.53,98.5749988623313
+16232,58,"Male","Married","Caucasian","Non-Hispanic or Latino","English",151,50150.7278314243,61434,807.362033477051,175.36933712776,116.573
+16251,31,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",12,44713.157152459,69436.6278732143,719.479898102678,168.677483641897,124.919
+17588,38,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",183,37283.0031558817,60802.5312951076,518.76315719708,181.61,150.729
+17800,36,"Female","Unmarried","African American","Non-Hispanic or Latino","English",64,36487.694,52816,511.5602778,164.276676857686,77.6429844055953
+18624,72,"Female","Married","Caucasian","Non-Hispanic or Latino","English",156,43420.2153768206,93226,821.61,168.653935579809,74.2065046455001
+18881,29,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",68,8931.57990255655,16802.3495,177.4902778,166.487135,75.6724426822247
+19357,61,"Female","Married","Caucasian","Non-Hispanic or Latino","English",0,21473.432,48016.8635593768,562.5816667,157.734,101.196
+20057,64,"Female","Married","Caucasian","Non-Hispanic or Latino","English",258,35545.191,56236.2540724183,402.8855556,160.02,142.11
+20353,40,"Female","Married","Caucasian","Non-Hispanic or Latino","English",2,29173.842,53935,629.354179517,160.096,79.7877820447315
+20432,44,"Female","Married","Other","Hispanic or Latino","English",159,34091.4631329881,61470,691.817314065328,162.56,67.270081274254
+20671,28,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",0,25566.301604,47556,643.32,166.37,76.6117
+21250,46,"Female","Married","Caucasian","Non-Hispanic or Latino","English",69,32946.2419793334,48686,599.570730153778,168.172000794537,81.0024779774143
+21254,46,"Female","Unknown","Caucasian","Non-Hispanic or Latino","English",0,31272.694,66658.3908333333,749.033625793018,167.64,81.4811447724456
+21697,46,"Male","Married","Asian","Non-Hispanic or Latino","English",112,13760.1634809068,26121.4533974359,136.0586111,179.07,77.5642
+21976,43,"Male","Married","Caucasian","Non-Hispanic or Latino","English",112,65871.612,97611.7861634368,1066.32362021991,174.883860833333,86.4541140757905
+22064,47,"Female","Unknown","Caucasian","Unknown","English",146,29684.998,64331,912.6241667,160.02,78.6289769499231
+22132,53,"Female","Married","Caucasian","Non-Hispanic or Latino","English",212,33598.887,63341,815.8791667,158.364121639658,69.95702703125
+22456,33,"Female","Married","Caucasian","Non-Hispanic or Latino","English",156,2.13,5327.43777777778,105.206980445527,163.696653810595,80.406175988558
+22783,36,"Female","Unmarried","Other","Hispanic or Latino","English",53,26705.006,47491.0425437302,567.424068780873,152.4,83.0385387206672
+24205,55,"Male","Married","Caucasian","Non-Hispanic or Latino","English",102,7694.223,9615,151.224436687976,179.705,99.0595
+24241,43,"Female","Married","Caucasian","Non-Hispanic or Latino","English",135,47138.0960423809,81905.7919143611,1020.835,162.940859965147,72.839528
+25418,70,"Female","Married","Caucasian","Unknown","English",133,9804.318,23411.7180372186,105.4383333,162.799926328633,83.4504352605575
+25830,37,"Female","Unmarried","African American","Non-Hispanic or Latino","English",398,27490.984,50124.750796746,532.57905555006,160.02,76.7187754074314
+25867,40,"Male","Unmarried","African American","Non-Hispanic or Latino","English",97,54909.9664082573,73691.33,830.81,176.3453047152,112.491
+26145,29,"Female","Unmarried","Other","Hispanic or Latino","English",0,24196.9606394072,42641.2786212302,452.8861111,164.144025645579,73.6406761680337
+26216,34,"Female","Unmarried","African American","Non-Hispanic or Latino","English",2,26652.296,45365,560.7497222,164.599992249186,79.6054
+26249,45,"Male","Married","Caucasian","Non-Hispanic or Latino","English",104,67283.275,104664.275365531,1128.439167,178.435,109.406
+26697,67,"Female","Married","Caucasian","Non-Hispanic or Latino","English",269,15931.2207929467,42278,274.4172222,170.440273667333,94.5286
+26881,56,"Male","Married","Caucasian","Non-Hispanic or Latino","English",0,29852.844416,47217,527.5641667,170.815,82.1909
+27917,50,"Female","Married","Caucasian","Non-Hispanic or Latino","English",127,1040.118,2478,25.58972222,160.655,85.5475
+27969,50,"Female","Married","Caucasian","Non-Hispanic or Latino","English",6,31712.980814158,52063,630.418011127429,165.1,75.5231
+28013,51,"Male","Married","Caucasian","Non-Hispanic or Latino","English",151,32009.153,56558,501.1313889,171.958,106.141
+28019,49,"Female","Married","Asian","Non-Hispanic or Latino","English",12,1482.053,11642.3435148265,32.14416667,161.713924921484,89.1989
+28688,49,"Male","Married","Asian","Non-Hispanic or Latino","English",69,59606.2147405292,103413,1067.020278,172.72,108.681
+28721,64,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",333,24970.03218,54225.7677969444,473.2205556,155.05,65.2774125
+29062,46,"Female","Married","Caucasian","Non-Hispanic or Latino","English",95,38472.8142875,48516,794.4194444,165.735,82.1002
+29096,37,"Male","Unmarried","Asian","Non-Hispanic or Latino","English",126,34493.2213210455,56275.2394285714,717.633211827883,153.035,52.4806
+29362,46,"Male","Married","African American","Non-Hispanic or Latino","English",269,51259.564,53919,592.1527778,185.42,120.519
+29475,56,"Male","Married","African American","Non-Hispanic or Latino","English",225,28052.552,46728,434.4311111,177.347014407046,101.331160872376
+29508,43,"Male","Married","Asian","Non-Hispanic or Latino","English",389,143857.885,142419,902.150163257009,193.04,98.2274709374
+29677,23,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",4,76484.164,87906.3966666667,863.6075,181.530573344771,90.40085
+29727,18,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",91,38080.28909,66863,793.473149888762,168.275383928571,76.487403348009
+30299,67,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",183,58596.4260092857,98537.3363191883,1050.985556,167.005,87.2773238761228
+30374,30,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",60,47731.69878,127479,913.757840856688,163.77905799609,65.5894
+30577,29,"Male","Unmarried","Asian","Non-Hispanic or Latino","English",6,54218.884,145958,551.8763889,171.09747,66.4966
+30621,46,"Female","Unmarried","African American","Non-Hispanic or Latino","English",87,9471.488,15123.345,172.6541667,163.179054337394,75.881387992648
+30928,32,"Female","Unmarried","African American","Non-Hispanic or Latino","English",13,29648.3566059091,55158.2574581254,698.5002778,163.83,76.3701133870321
+31192,37,"Male","Unmarried","African American","Non-Hispanic or Latino","English",94,14910.7797216667,20659,217.8338889,176.53,63.4122
+31958,25,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",51,51211.763,84670,848.403651424334,165.816485651743,74.5252
+32028,22,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",50,52530.7854659301,93075.3742860081,963.9224889,177.8,74.253
+32294,72,"Male","Married","Caucasian","Non-Hispanic or Latino","English",171,47916.209,72845,894.187369959149,175.266353540863,86.1371
+33425,55,"Male","Married","Caucasian","Unknown","English",102,41473.384,66963.4640009437,851.5283333,172.72,76.022
+33427,52,"Female","Married","Caucasian","Non-Hispanic or Latino","English",101,35389.281,65275,863.5741955785,160.743575879245,72.5747
+33821,57,"Male","Married","Caucasian","Non-Hispanic or Latino","English",0,16163.3389222818,35849.7720132044,353.4219444,168.954815676243,82.9398425296598
+33924,38,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",73,43471.071796,72647.0952535934,720.419120290588,177.931479086624,101.916035133333
+33925,26,"Male","Unmarried","African American","Non-Hispanic or Latino","English",222,31955.75321,51702.2933333333,648.746935250373,182.818913814103,103.22559064093
+33965,28,"Female","Married","Caucasian","Non-Hispanic or Latino","English",0,6271.209,17005.5993481693,186.768076667693,165.89516202804,107.32
+34193,36,"Female","Unmarried","African American","Non-Hispanic or Latino","English",97,49314.755,61503,794.767120649901,169.172232703779,85.919014538961
+34999,46,"Male","Married","Other","Unknown","English",1,33824.31,58744.8754703896,686.305514416703,171.608750556312,80.2002947430985
+35525,50,"Female","Unmarried","African American","Non-Hispanic or Latino","English",271,33207.813,48389,645.4294444,159.1534,106.2224
+35732,32,"Female","Unmarried","African American","Non-Hispanic or Latino","English",275,28344.714,48092.7905,542.7758333,164.875689246454,88.32342
+35745,62,"Male","Unmarried","African American","Non-Hispanic or Latino","English",116,53597.115,70258.6465919444,807.4516667,174,90.1741
+35987,31,"Female","Unmarried","African American","Non-Hispanic or Latino","English",0,29122.5765183333,43362.8883333333,450.519873309738,157.5263333,111.59875
+36593,43,"Female","Married","Other","Non-Hispanic or Latino","English",79,49948.5507251458,88041.4785714286,1117.430833,165.152622645891,75.3460459583
+36631,55,"Female","Married","Caucasian","Non-Hispanic or Latino","English",148,23472.352,49234,561.5727740665,158.115,61.2349
+36827,54,"Female","Married","Caucasian","Non-Hispanic or Latino","English",54,1148.231,7480.13364285714,126.143617247676,162.141148146003,79.5090024892219
+37182,56,"Female","Married","Caucasian","Hispanic or Latino","English",362,27629.196,68714,770.727870788265,157.48,58.5587
+37400,31,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",121,57436.478,81197.2966666667,722.8813889,186.601,103.420058844749
+37451,57,"Female","Married","Other","Non-Hispanic or Latino","English",0,7617.171,30849,100.9677778,166.577706605145,88.4197166412199
+37459,45,"Male","Married","Asian","Non-Hispanic or Latino","English",92,14320.083,28136,321.986102121967,179.578,79.5147
+38229,52,"Female","Married","African American","Non-Hispanic or Latino","English",69,30115.9169360442,49564,703.265,163.629796919865,70.8964
+38853,53,"Female","Married","Caucasian","Non-Hispanic or Latino","English",68,24174.690275,69074.5130353689,541.107414127467,152.4,52.3899
+38893,43,"Male","Married","Asian","Non-Hispanic or Latino","English",87,15114.196,35597,406.8302778,170.73691439394,64.0472
+39007,45,"Female","Unmarried","African American","Non-Hispanic or Latino","English",132,22247.2700308136,32393,393.426176120173,167.242155151515,77.4299373925281
+40975,43,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",31,23072.0270367933,41718.7616666667,532.6986111,164.1475,82.9038900165268
+41095,47,"Male","Married","Asian","Non-Hispanic or Latino","English",61,36908.5,62092.8916666667,649.3083333,173.99,87.1665349236827
+41424,51,"Male","Married","Other","Non-Hispanic or Latino","English",73,49051.062,72472.0126190476,879.5758333,180.34,113.489
+41963,32,"Male","Unmarried","African American","Non-Hispanic or Latino","English",28,25348.066,40582,462.0638889,173.379172227223,77.5642
+42037,67,"Male","Married","Caucasian","Non-Hispanic or Latino","English",78,23200.294106776,42395.4493333333,423.635,177.776156745412,95.6930833146859
+42129,59,"Female","Married","Caucasian","Non-Hispanic or Latino","English",90,36902.7320281296,75170,605.9752778,165.735,74.888
+42473,46,"Male","Married","Caucasian","Non-Hispanic or Latino","English",21,23812.5785392857,37277.5540211274,420.83,183.388,113.8065
+43021,70,"Female","Unknown","African American","Non-Hispanic or Latino","English",0,1099.69,2758,85.0658583318266,160.655,74.9788
+43068,37,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",99,36039.07305,73116.1191865278,834.2183333,164.593873911688,85.8196
+43276,46,"Female","Married","Asian","Non-Hispanic or Latino","English",154,38624.0524710798,67269.616294968,799.1663889,155.575,71.7465244744024
+43724,57,"Female","Married","Asian","Non-Hispanic or Latino","English",2,32279.9835356667,62275,732.30735553479,160.108102174603,70.8543760661132
+43828,53,"Male","Married","Caucasian","Non-Hispanic or Latino","English",128,26371.2445940499,46082.2589078373,444.408592634767,177.222238075542,105.778
+43963,54,"Female","Married","Caucasian","Non-Hispanic or Latino","English",218,33409.831,73667,750.6758333,166.37,75.4314415968903
+44021,20,"Female","Unmarried","African American","Non-Hispanic or Latino","English",20,28797.05,57465,738.4872222,169.545,77.3028016128318
+44110,47,"Female","Married","Asian","Non-Hispanic or Latino","English",0,15979.195,42970.3231185065,419.1580556,162.388220711686,63.1854
+44320,53,"Female","Married","Asian","Non-Hispanic or Latino","English",245,22658.4581051727,52620.5,587.072573858331,148.59,76.6718918415985
+45772,44,"Female","Unmarried","African American","Non-Hispanic or Latino","English",0,18355.855,52645.4956033405,558.1766667,145.034,68.9006
+45905,52,"Male","Married","Asian","Non-Hispanic or Latino","English",99,54151.143,162693,1003.86022749766,172.668308752,91.270066625
+46282,48,"Male","Married","Caucasian","Non-Hispanic or Latino","English",73,28953.371,44567.6399030099,568.3625,182.88,100.123836874553
+46630,24,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",35,21177.0693351053,38313.3335262946,440.326281164957,169.418,76.2488
+47625,45,"Male","Married","Asian","Non-Hispanic or Latino","English",7,18754.9041059361,39594.7949200513,372.670131280716,171.014987051224,96.2615261
+47655,49,"Male","Married","Caucasian","Non-Hispanic or Latino","English",83,33525.4063022656,66064.4382051282,597.195,173.6009365,80.3765
+47730,21,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",193,86961.863,146777,1066.21687930793,165.1,81.6419748170296
+47965,61,"Female","Married","Asian","Non-Hispanic or Latino","English",6,14224.8579372153,28896,308.5991667,164.489173772618,66.6327
+48634,40,"Female","Married","African American","Non-Hispanic or Latino","English",258,36361.907,53483,646.252469206476,159.385,97.2501
+48686,55,"Male","Married","Caucasian","Non-Hispanic or Latino","English",87,39459.922,51325,683.416551722382,177.8,85.679461089476
+48687,52,"Male","Married","Other","Unknown","English",74,15743.581,28996,292.671347419736,173.492324058047,80.3765
+50047,49,"Female","Married","African American","Non-Hispanic or Latino","English",100,38262.247513665,69648,653.7408333,162.691167213204,79.21985
+50376,42,"Male","Unmarried","African American","Non-Hispanic or Latino","English",93,52614.094946729,72899,945.328116488447,176.53,86.4560643359328
+50867,37,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",326,38870.239,56860.8690210714,697.404078331417,175.895,98.1013599999667
+50958,26,"Male","Unmarried","African American","Non-Hispanic or Latino","English",0,45016.539,61261.6635833333,721.7144444,182.245,76.7478
+51212,43,"Female","Married","African American","Non-Hispanic or Latino","English",127,42210.4912869807,64725.570818728,832.890460651922,171.548588904879,105.823
+51305,44,"Male","Married","African American","Non-Hispanic or Latino","English",84,43529.89,67368.7260952381,914.8658333,178.977582550705,88.904
+51695,53,"Female","Married","Caucasian","Non-Hispanic or Latino","English",76,19119.516,32493.59725,250.8075,171.052066666667,89.5315141023333
+51744,52,"Female","Married","African American","Non-Hispanic or Latino","English",94,30195.671,54074.8306862745,725.684357746822,162.425970843237,83.3194535714286
+52634,44,"Female","Unknown","Asian","Non-Hispanic or Latino","Not English",95,7480.73327583334,23168.0017664916,122.9363889,158.75,79.0959445685778
+52697,52,"Female","Married","Caucasian","Non-Hispanic or Latino","English",127,27909.035,60946,921.7144444,162.213309603314,60.7813
+53122,34,"Female","Unmarried","Other","Hispanic or Latino","English",71,34542.009,70140.9846666667,700.094937299665,160.418867778,75.5901279062069
+53574,49,"Male","Married","Asian","Non-Hispanic or Latino","English",0,31426.5821468536,51263,629.717742780658,175.301,81.4644747861271
+53639,64,"Female","Married","Asian","Non-Hispanic or Latino","English",345,85522.473,111031.472633267,912.348541377,162.726498939693,66.0884
+53679,42,"Male","Unmarried","African American","Non-Hispanic or Latino","English",49,13924.8,19780,202.3416667,175.26,81.7373
+53862,72,"Male","Married","Caucasian","Non-Hispanic or Latino","English",255,35943.2089774483,63651.6123590472,712.669438018325,176.689598989899,93.9301429544325
+54438,68,"Male","Married","Caucasian","Non-Hispanic or Latino","English",56,57979.239,67718.5868631144,777.00413363847,179.07,98.3356594539682
+54615,41,"Male","Married","Asian","Non-Hispanic or Latino","English",285,84583.637,95084.8758117162,999.822050852824,170.18,82.2112168992233
+54629,38,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",222,34640.365575,24779,510.772033337,184.15,93.6282700232815
+55076,37,"Female","Unmarried","African American","Non-Hispanic or Latino","English",110,44173.6922637755,69486,777.477571320174,168.985208808326,88.3327917786048
+55225,30,"Female","Unmarried","African American","Non-Hispanic or Latino","English",29,27679.178,48163.0555555556,611.7269444,169.292397770563,84.7103298203429
+55526,48,"Male","Married","Other","Hispanic or Latino","English",146,72670.465,143763.599,1109.6525,172.72,84.9745833665174
+55694,40,"Female","Married","Asian","Non-Hispanic or Latino","English",85,15605.69,34542.39,341.963878698586,158.242,71.7948753708498
+56450,46,"Female","Married","Asian","Non-Hispanic or Latino","English",316,24696.239,49549,626.7913889,161.32850416425,88.50185
+56828,53,"Male","Married","Caucasian","Non-Hispanic or Latino","English",55,60147.7159128867,86135,963.1833333,178.723779343178,87.8255383611111
+56909,21,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",0,38281.4789904002,82276.2829722222,944.7691667,157.48,60.4185
+57110,50,"Female","Married","Caucasian","Non-Hispanic or Latino","English",230,15223.105,42232,531.3358333,153.67,79.1068018824854
+58953,40,"Female","Married","African American","Non-Hispanic or Latino","English",155,288.373,18637.5845490196,263.585123151923,170.18,62.4596
+59078,38,"Male","Unmarried","African American","Non-Hispanic or Latino","English",1,54906.114,71534.5983333333,810.6102778,172.72,100.560394283333
+59117,35,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",102,36613.7936457778,84192.0426666667,923.8725,161.925,52.7995
+59238,47,"Male","Married","Asian","Non-Hispanic or Latino","English",71,13130.3751331042,21120,256.520899750786,176.580350510922,87.2067865859581
+59335,75,"Female","Married","Caucasian","Non-Hispanic or Latino","English",42,32223.3152699527,48397,678.4594444,169.545,92.3632428699289
+59351,37,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",41,12596.517,27178,170.38,172.386899324557,97.0687
+59428,48,"Male","Married","Caucasian","Non-Hispanic or Latino","English",176,62118.8809235715,95828,1065.292778,179.705,100.315132188467
+60139,63,"Female","Married","Caucasian","Non-Hispanic or Latino","English",283,103474.729,131136.34,1156.164444,157.48,87.135
+60518,55,"Male","Married","Caucasian","Non-Hispanic or Latino","English",138,19666.942,30807,358.9855556,188.1198095,131.0152619
+60934,53,"Male","Married","African American","Non-Hispanic or Latino","English",88,59090.6664704541,83093,819.8516667,184.404,101.332
+60986,75,"Female","Married","Caucasian","Non-Hispanic or Latino","English",126,39500.251,101429,857.670940026739,163.094681250275,55.0661
+61120,56,"Male","Married","Caucasian","Non-Hispanic or Latino","English",345,70280.593,90549.2100615953,764.8411111,179.07,87.3165
+61539,21,"Female","Unmarried","Other","Hispanic or Latino","English",98,21219.7229676667,36083,458.957781871855,161.905339859783,75.2826727419857
+61655,75,"Male","Married","Caucasian","Non-Hispanic or Latino","English",97,38577.6527686747,58965,824.5063889,173.355,66.28455
+62243,49,"Female","Married","Asian","Non-Hispanic or Latino","Not English",156,35648.983,77198,673.4075,161.831775011526,63.0493
+62348,24,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",0,23960.502,23873,332.6513889,180.34,99.8727460722222
+62469,42,"Male","Married","Caucasian","Non-Hispanic or Latino","English",0,26079.009,59288,795.195,177.165,92.5038022996979
+62722,20,"Female","Unmarried","African American","Non-Hispanic or Latino","English",81,9069.2,10297,130.7252778,165.1,79.5028511392266
+62780,36,"Male","Married","Other","Unknown","English",83,2058.629,2109,120.173483102325,175.999,80.4706629333
+62831,43,"Female","Unmarried","Other","Non-Hispanic or Latino","English",0,33231.1121026667,59382,696.211184724683,163.936109946806,58.8309
+63795,57,"Female","Married","Caucasian","Non-Hispanic or Latino","English",240,35972.972,45330,600.029055391833,166.821347373573,86.5773045865369
+63874,38,"Female","Married","Caucasian","Non-Hispanic or Latino","English",401,47246.6216668612,115613,991.564207046709,164.145000726754,83.6480218911331
+63971,38,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",80,38733.6544775375,54916.5881989864,654.703110706033,180.34,96.968661051941
+64183,52,"Male","Married","Asian","Non-Hispanic or Latino","English",0,39793.0115583986,54717,704.8372222,175.26,90.5361150452381
+64366,35,"Male","Unmarried","Caucasian","Hispanic or Latino","English",92,40594.0987053067,59022,774.2602778,177.8,92.0051428468309
+64857,51,"Male","Married","Caucasian","Non-Hispanic or Latino","English",392,57873.145,100800,637.6711111,174.347751111111,94.5594918836096
+65411,58,"Male","Married","Caucasian","Non-Hispanic or Latino","English",55,44454.265,84627.4143637956,1155.894167,183.515,99.8634380353918
+65472,41,"Female","Unmarried","African American","Non-Hispanic or Latino","English",0,51457.9988551778,90721,869.4288889,169.360938085317,100.244
+66711,42,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",83,21011.829,40225,447.36014278784,162.767358812839,81.6466
+66798,55,"Female","Married","Caucasian","Non-Hispanic or Latino","English",216,35771.491,60224,768.543461553826,167.375275554983,85.2652188225156
+67023,43,"Female","Married","Other","Non-Hispanic or Latino","English",59,25205.795,62820.6309497267,604.4838889,153.67,56.064
+67138,45,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",165,27523.848,67119.3675,934.96,162.429940723304,47.7179
+67156,45,"Male","Married","Caucasian","Non-Hispanic or Latino","English",69,32024.7877653063,54892,575.567399655914,175.870395080808,104.598
+67194,74,"Female","Married","Caucasian","Non-Hispanic or Latino","English",0,34812.7880911295,69388,897.7916667,162.368200745871,79.0649888028171
+67476,66,"Male","Married","Caucasian","Non-Hispanic or Latino","English",134,43528.566,70259,888.6677778,175.26,101.057548102825
+67487,50,"Female","Married","Caucasian","Non-Hispanic or Latino","English",30,13107.703,23809,195.4444444,163.570408937198,84.3668189070769
+67713,32,"Male","Unmarried","Other","Non-Hispanic or Latino","English",77,63413.939712,120455.86,1102.994722,158.75,77.1457115238095
+67970,29,"Female","Unmarried","Other","Non-Hispanic or Latino","English",0,27242.605,71250,754.445413896,152.4,60.1917
+68511,69,"Male","Married","Caucasian","Non-Hispanic or Latino","English",20,42121.2079353334,75746.9770291613,741.5366667,170.18,71.4861
+68638,25,"Male","Unmarried","Other","Hispanic or Latino","English",41,56307.11971,73497.9210047619,927.088355218828,170.18,76.2942
+69012,69,"Female","Married","Caucasian","Non-Hispanic or Latino","English",0,27861.361,66100,654.948788957141,165.417,73.4819
+69151,58,"Female","Married","Caucasian","Non-Hispanic or Latino","English",272,39793.0704383333,83605,692.3458333,165.1,84.3342873787333
+69336,44,"Female","Married","Asian","Non-Hispanic or Latino","English",0,51600.6211168328,72038.666,919.2083333,160.505115521964,56.526775
+69584,42,"Female","Married","Caucasian","Non-Hispanic or Latino","English",121,51462.9298050961,80103.7781154085,981.551473774329,165.094410817148,65.2265
+70290,34,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",260,53553.4895991667,75571,880.7002778,182.88,98.1174010875025
+70356,73,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",139,74879.6482843846,467902,1378.394167,167.64,80.5517
+71123,25,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",0,3424.782,4733,41.01111111,175.874370819924,85.2299
+71497,44,"Female","Married","Caucasian","Non-Hispanic or Latino","English",84,29668.1843837674,51432,610.438796559108,168.91,80.0894159501993
+71765,49,"Male","Married","Caucasian","Non-Hispanic or Latino","English",133,37604.4675244528,61147,739.6511111,171.151405174123,73.0283
+71931,45,"Female","Married","Other","Non-Hispanic or Latino","English",0,24157.6297051003,49345.4701149603,558.9158333,167.005,61.371
+72165,48,"Female","Married","Other","Non-Hispanic or Latino","English",41,52460.3037482585,98853.5383333333,947.0205556,165.983191990988,75.36087303385
+72717,45,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",0,44550.656,63258,765.757981369997,168.788516572066,96.0708
+73518,35,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",76,21838.2702125587,31383,400.10218042845,181.61,81.2383
+74115,30,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",42,65698.055,86744,916.970299210489,177.8,77.1106
+74532,48,"Male","Married","Asian","Non-Hispanic or Latino","English",27,66138.247036,90652.115,964.1597222,172.991959879168,81.1476
+74986,47,"Female","Married","Caucasian","Hispanic or Latino","English",80,19499.1684349456,32435,390.7077778,164.875593569663,65.3104447000667
+75108,56,"Female","Married","Asian","Non-Hispanic or Latino","English",166,17875.588,40079.1031115873,486.9466667,156.845,49.2147
+75235,48,"Female","Unmarried","African American","Non-Hispanic or Latino","English",927,25097.602,54599.5723318067,617.40224438488,167.24787,94.4718846686001
+75486,48,"Male","Married","Caucasian","Non-Hispanic or Latino","English",35,6751.80653416667,9178,114.1002778,177.588900833333,99.6736822891159
+75538,52,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",114,32466.0686835,57570.1246031746,564.629202505893,165.413672005639,78.3426065798483
+75548,43,"Female","Unmarried","Other","Hispanic or Latino","English",200,18084.9633405123,35191,421.9408333,163.495035888065,70.10265
+75580,55,"Male","Married","Caucasian","Non-Hispanic or Latino","English",1,19191.8373618908,29430.6316362103,274.5869444,170.293774237518,75.6591
+75712,19,"Female","Unmarried","African American","Non-Hispanic or Latino","English",6,28786.0228459091,58078.8794541176,641.96036435094,165.918804145222,59.3298
+75888,60,"Female","Unmarried","African American","Non-Hispanic or Latino","English",188,22049.821,38862,539.617812872011,161.29,101.151
+75914,35,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",0,27453.316656,56125.8455476191,564.51138176939,174.174147424435,64.963325
+75952,60,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",0,17698.5055600873,31253,366.9140680524,166.011710619048,76.3395
+76177,58,"Female","Married","Caucasian","Non-Hispanic or Latino","English",109,21478.571,39660.8183333333,447.608512739672,163.680016163207,77.9654825989293
+76334,32,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",0,30583.517,61346,882.3177778,161.30530072297,67.6306
+76415,44,"Male","Unknown","Caucasian","Non-Hispanic or Latino","English",120,71313.041,74182,957.691815363778,180.34,97.0430136707579
+76895,62,"Female","Married","Caucasian","Non-Hispanic or Latino","English",0,30336.2862258333,60403,749.4466667,164.465,78.0632
+77693,32,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",19,45625.2560390011,89894,899.8525,161.604113333333,75.7499
+77868,48,"Female","Married","Caucasian","Non-Hispanic or Latino","English",138,19256.35,41116.5162849675,419.861082934291,170.688,72.1211
+78019,53,"Female","Married","Caucasian","Non-Hispanic or Latino","English",86,38327.9386151667,61537.2076666667,848.457043650887,158.75,77.5211801170236
+78392,49,"Male","Married","African American","Non-Hispanic or Latino","English",23,62370.8957146667,105220.5925,1067.758611,176.546520578279,85.7743
+78526,35,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",0,71156.006,55628,782.557787406233,173.6725,130.4354
+78871,29,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",48,48069.8762233333,98955,907.990494032661,161.7970415614,72.9835622667
+79330,30,"Female","Married","Asian","Non-Hispanic or Latino","English",122,58782.0341958333,112750.695618395,1019.071111,166.37,60.237
+79476,50,"Female","Unknown","Asian","Non-Hispanic or Latino","English",0,9805.997,29201,248.136807157219,166.37,74.4620582398876
+80020,31,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",59,59969.9414016667,92724.4586688492,894.7505556,166.070779195273,76.2035
+80033,53,"Male","Married","Caucasian","Non-Hispanic or Latino","English",392,45718.943561,72264.2866087507,811.490705594426,180.34,94.4332383500333
+80597,52,"Male","Married","Caucasian","Non-Hispanic or Latino","English",178,20755.3574138374,30025,330.5486111,171.794263362319,109.905
+80923,44,"Male","Married","Caucasian","Non-Hispanic or Latino","English",112,34480.3519458333,42105,562.8713889,173.355,109.134
+81059,53,"Female","Married","Caucasian","Non-Hispanic or Latino","English",95,39864.785,57690,785.485927479052,161.919669616384,103.782
+81136,41,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",116,32315.97788,61150.606599052,715.877086045216,149.86,54.6125
+81338,40,"Female","Unknown","Caucasian","Non-Hispanic or Latino","English",132,20662.894,50029.8148333333,602.6244444,162.792750168545,83.45438182
+81877,59,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",74,35347.8950355025,49250,731.6852778,168.91,77.4735
+81943,62,"Male","Married","Caucasian","Non-Hispanic or Latino","English",162,143755.817,178718,1124.145556,177.996500916667,86.4342381287597
+82139,70,"Male","Married","Caucasian","Non-Hispanic or Latino","English",108,17204.0231681719,12857,146.3275,179.07,119.204
+82595,47,"Female","Married","African American","Non-Hispanic or Latino","English",210,25901.887048,54468.7949130159,594.271937415468,160.345920810139,65.4987
+83411,47,"Male","Married","African American","Non-Hispanic or Latino","English",0,78223.901,88610,1149.256667,176.022,93.3215579583333
+83658,44,"Male","Married","Asian","Non-Hispanic or Latino","English",0,27669.5702321589,51218,425.0405556,172.633658571429,81.7109334262698
+84263,42,"Male","Married","Asian","Non-Hispanic or Latino","English",0,29223.856,60583.2511302599,612.576463481814,170.976094722222,69.9439
+84339,52,"Female","Married","Caucasian","Non-Hispanic or Latino","English",230,52129.353,88167.04870125,1116.574722,162.56,65.09045
+84515,41,"Male","Unmarried","Other","Non-Hispanic or Latino","English",0,15929.425,35152.6487183333,517.986813005427,177.34769181019,89.7034174173333
+84952,48,"Male","Married","Caucasian","Non-Hispanic or Latino","English",104,49697.93953775,71681,959.8241667,169.554929411374,75.8859
+85208,59,"Female","Married","Caucasian","Non-Hispanic or Latino","English",158,27660.582,63793,1044.088056,177.292,97.9305
+85510,35,"Female","Unmarried","African American","Non-Hispanic or Latino","English",52,26483.3682229877,49334,531.558108180463,170.815,84.1413
+85966,63,"Male","Married","Caucasian","Non-Hispanic or Latino","English",69,12658.827,25328,285.796295131155,180.34,69.4903
+86112,42,"Male","Married","African American","Non-Hispanic or Latino","English",14,33749.2819747806,48849,518.6592712945,177.8,99.3366
+86376,40,"Male","Unmarried","African American","Non-Hispanic or Latino","English",115,50808.292,89316.4641120039,927.7680556,176.166462222222,92.3000097653153
+86625,54,"Female","Married","Caucasian","Non-Hispanic or Latino","English",295,54573.6670525,124477,865.782223374499,164.465,78.8343
+86639,37,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",83,29134.0729049451,47850,665.7844444,164.3742857,76.4170754833333
+87654,41,"Male","Unmarried","African American","Non-Hispanic or Latino","English",410,89840.789,72324,850.778477394622,173.355,119.485165266473
+87732,47,"Female","Married","Other","Non-Hispanic or Latino","English",69,48050.981,73763,791.218704198514,160.02,82.2816
+87821,69,"Male","Married","Caucasian","Non-Hispanic or Latino","English",148,21815.985,49032.0948415782,570.30097615943,170.18,64.2513
+88280,34,"Female","Married","Asian","Non-Hispanic or Latino","English",46,41668.8505500588,49680.7672222222,573.1327778,171.45,80.0190971338646
+88811,43,"Female","Married","Caucasian","Non-Hispanic or Latino","English",0,10573.1580193333,13345.6501515152,67.34638889,171.45,84.0240791931856
+89277,48,"Female","Married","Caucasian","Non-Hispanic or Latino","English",174,41754.356,73361.36625,988.9963889,162.56,84.7037198199825
+89283,52,"Male","Married","Caucasian","Non-Hispanic or Latino","English",0,62562.0472415208,102673,925.313875096369,182.88,90.038
+89864,53,"Female","Married","African American","Non-Hispanic or Latino","English",0,37131.9888322539,67105.0780866853,861.1483333,159.9410142857,83.0073
+90058,55,"Male","Married","Caucasian","Hispanic or Latino","English",64,57019.3132334378,78582,1089.823889,172.72,89.0278273131228
+90664,32,"Male","Unmarried","Asian","Non-Hispanic or Latino","English",0,37844.6406366667,56684,701.790610297929,188.595,68.9006
+91994,47,"Male","Married","Other","Hispanic or Latino","English",145,18596.6246233333,44249.7791142857,311.37852022958,171.45,114.986
+92254,28,"Male","Married","Other","Non-Hispanic or Latino","English",80,50841.0514191556,134172,915.055927837324,167.64,93.9333493807114
+92763,50,"Female","Married","Caucasian","Non-Hispanic or Latino","English",102,33566.654,88684,986.9411111,158.125,55.61035
+92865,34,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",0,53856.567,97216.4988906614,911.987433339,170.815,77.3374
+93428,46,"Male","Married","Caucasian","Non-Hispanic or Latino","English",88,30862.4923007143,60646,597.1672222,172.523684385114,66.9502
+93564,54,"Male","Married","Caucasian","Non-Hispanic or Latino","English",14,34295.674,72054,718.90393557019,171.085277990678,86.2732
+94603,28,"Female","Unmarried","Other","Non-Hispanic or Latino","English",77,38135.6755541667,67558,852.9552778,163.458445261186,73.8302272257591
+95112,48,"Female","Married","Asian","Non-Hispanic or Latino","English",85,53643.51,73392,937.82379880037,155.575,63.6843
+96617,52,"Female","Married","Caucasian","Non-Hispanic or Latino","English",100,31266.0064720091,57000.4740463552,678.428303862657,167.091237947331,79.5147
+96889,31,"Male","Unknown","African American","Non-Hispanic or Latino","English",0,26773.9750220953,47074,416.1641667,178.684863940216,106.367
+97092,67,"Female","Married","Asian","Non-Hispanic or Latino","English",103,5375.715,23265.7429533297,52.4725,163.83,76.3686709150363
+97653,72,"Female","Married","Caucasian","Non-Hispanic or Latino","English",99,36188.5950693712,59484,853.2941667,157.48,94.4468476345455
+97673,37,"Female","Married","Asian","Non-Hispanic or Latino","English",24,18596.681,43422,517.8730556,159.4943075,62.88346667
+97706,39,"Male","Unmarried","African American","Non-Hispanic or Latino","English",29,85688.155,86325,978.48,178.564588047619,101.421164512247
+97766,36,"Female","Unmarried","Other","Non-Hispanic or Latino","English",3,16580.77047,26701,273.899593583619,166.263937619067,61.5524
+97871,39,"Female","Unmarried","African American","Non-Hispanic or Latino","English",185,49656.7497678572,92769,818.4622222,177.8,95.2394831222497
+98024,50,"Male","Married","Caucasian","Non-Hispanic or Latino","English",86,81971.12331,193085,1205.0575,173.99,90.6277
+98901,60,"Female","Married","Other","Hispanic or Latino","English",1,16036.895,24835,268.0891667,165.147916666667,75.8264737122
+100042,55,"Male","Married","Caucasian","Non-Hispanic or Latino","English",112,59530.5387000833,94850.0643184959,1018.0633993935,172.72,79.9683
+100209,67,"Female","Married","Caucasian","Non-Hispanic or Latino","English",213,64583.325,142396.159742857,1081.694444,160.4810733563,73.8448
+100259,43,"Female","Married","Asian","Non-Hispanic or Latino","English",71,25026.049,52011,621.1058333,158.544292217675,65.9523
+100409,57,"Female","Married","Caucasian","Non-Hispanic or Latino","English",199,2638.341,8668,210.112856950348,151.13,58.5587
+100705,63,"Female","Married","Caucasian","Non-Hispanic or Latino","English",266,46932.884,97397.2572263825,951.399385114918,160.808634585073,70.6312923956733
+100848,25,"Female","Unmarried","African American","Non-Hispanic or Latino","English",927,20929.0637575236,44913.427435,533.1338889,160.02,64.2286
+101814,52,"Female","Married","Caucasian","Non-Hispanic or Latino","English",87,16332.687,52790,629.1463889,159.058078236041,70.4688133889333
+102366,57,"Male","Married","Other","Non-Hispanic or Latino","English",54,43645.62508,68033,741.085867625524,172.555598963047,94.0715071298047
+102377,32,"Female","Unknown","Caucasian","Non-Hispanic or Latino","English",90,46143.277,78514.0376652778,781.134236110901,158.75,78.8997220130542
+103827,50,"Female","Married","Asian","Non-Hispanic or Latino","English",210,52277.395,124347.855,1167.326111,163.257153646076,76.4991
+103937,46,"Female","Married","Caucasian","Non-Hispanic or Latino","English",37,41223.943,63028,820.989534989667,163.83,75.981442939394
+104166,29,"Male","Married","Caucasian","Non-Hispanic or Latino","English",8,90600.483,130287,1064.992778,178.818958333333,86.0258782083333
+104170,49,"Female","Married","Caucasian","Non-Hispanic or Latino","English",124,37615.101,77204.0285714286,940.0822222,156.21,73.0117710947583
+104502,55,"Male","Married","Asian","Non-Hispanic or Latino","English",120,28756.482580079,44526,559.402289389576,168.275,88.5865
+104663,61,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",0,15160.136,25151,278.9586746935,175.895,91.2706173388555
+104685,21,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",0,29043.3642080511,49280.8825,577.1224537027,168.91,68.5237027499999
+104980,28,"Male","Unknown","Asian","Non-Hispanic or Latino","English",294,47013.231,46335,617.6038889,181.61,89.3801607348519
+105834,24,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",52,65792.2516099353,79801,856.4238889,189.23,96.4630499667601
+106302,47,"Male","Married","Caucasian","Non-Hispanic or Latino","English",7,83240.324,171852,1803.921667,170.838366559422,90.7846944683797
+106577,37,"Male","Unmarried","Other","Non-Hispanic or Latino","English",0,53639.3085860555,95530,889.144573008985,178.435,93.1678
+106661,79,"Female","Married","Caucasian","Unknown","English",203,3627.269,23754.3981012346,53.30972222,162.364433637262,63.9111
+106896,27,"Male","Unmarried","Other","Non-Hispanic or Latino","English",0,94897.267,105727.173333333,1035.773889,176.490590105333,117.344
+106931,74,"Male","Married","Caucasian","Non-Hispanic or Latino","English",97,11706.915,29664.2005544398,325.8447222,175.26,90.7812786979521
+106998,33,"Male","Unmarried","African American","Non-Hispanic or Latino","English",124,9403.38521433334,21178.7214599527,95.47222222,177.8,104.689
+107288,47,"Male","Married","Caucasian","Non-Hispanic or Latino","English",121,25565.334,35840,406.3916667,173.610471660053,102.376
+107912,59,"Male","Married","Caucasian","Non-Hispanic or Latino","English",174,35488.3683466667,51768,631.722674609549,180.34,101.740999741252
+107970,50,"Female","Married","African American","Non-Hispanic or Latino","English",97,38522.844,61232,527.4413889,161.925,81.7341556436458
+108261,39,"Female","Married","Other","Non-Hispanic or Latino","English",153,43632.9064549765,76771.5318953251,832.508929975746,157.556,79.1745
+108770,42,"Male","Married","Asian","Non-Hispanic or Latino","English",0,72605.3389277235,149936,901.588986323979,171.870576666333,82.2736467368736
+108775,44,"Male","Married","Asian","Non-Hispanic or Latino","English",359,30642.198,58397,795.0697222,170.18,89.80291541345
+108855,45,"Female","Married","Caucasian","Non-Hispanic or Latino","English",241,15598.607,28306,302.786408635172,161.32839982441,70.3068
+108876,57,"Male","Married","Asian","Non-Hispanic or Latino","English",95,12927.844,39012.5196428571,389.990209869961,167.005,61.0988
+109206,56,"Female","Married","Caucasian","Non-Hispanic or Latino","English",82,25771.4002591301,53489.693322705,507.6230556,165.561612083317,69.581
+109517,39,"Female","Married","Caucasian","Non-Hispanic or Latino","English",76,44114.9846120833,93949.1440431416,1034.445278,161.29,79.0895278918579
+109597,45,"Female","Married","Asian","Non-Hispanic or Latino","English",138,43557.7747889633,75522,832.9361111,167.599,80.8980097057
+109704,20,"Male","Unmarried","African American","Non-Hispanic or Latino","English",54,41553.162,58119,831.7055556,171.45,83.4156
+110334,62,"Female","Married","Caucasian","Non-Hispanic or Latino","English",0,5566.90796,4326,61.6351966545531,170.18,91.4895
+110628,35,"Female","Unknown","African American","Non-Hispanic or Latino","English",54,34733.8208163764,69823,796.795,161.349055,74.2077
+110887,49,"Male","Married","Caucasian","Non-Hispanic or Latino","English",11,50487.327,82605.4433333333,963.6941667,176.797373669935,99.8125614568347
+111779,23,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",96,60719.4013233333,105322.709444578,912.298674960526,184.785,77.3374
+112614,77,"Male","Married","Caucasian","Non-Hispanic or Latino","English",0,27656.715,58142,743.9183333,177.606919645277,87.6398970491429
+112755,21,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",0,14917.479,36146.9848529941,432.8011111,164.304695244975,67.6378188501001
+113567,54,"Female","Married","Asian","Non-Hispanic or Latino","English",373,16907.175,38701.0619867731,393.50692290905,161.834074285733,59.2845
+113823,38,"Female","Married","Other","Hispanic or Latino","English",92,11833.043,39882.98,339.465899836819,164.605191830562,79.3035004225201
+114134,47,"Female","Married","Asian","Non-Hispanic or Latino","English",132,23251.5281446667,39614,539.3966667,161.249657575758,87.5433
+114516,48,"Male","Married","Caucasian","Hispanic or Latino","English",69,40143.7154918946,81064.4626144444,845.108078686417,170.18,65.9976
+114821,42,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",0,12470.0115622857,27453.8706666667,218.1594444,171.670548871013,88.1132127902051
+115256,36,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",72,11250.3612078464,12665.565,123.3027778,167.005,87.65665
+115675,55,"Male","Married","Caucasian","Non-Hispanic or Latino","English",287,38028.084,93505,964.9216667,176.768455404017,129.364
+116076,64,"Female","Married","Caucasian","Non-Hispanic or Latino","English",113,65675.865,145636,1167.0525,165.237979997667,83.3249
+117176,49,"Male","Married","Caucasian","Non-Hispanic or Latino","English",71,42024.1285333333,70578.1033333333,835.237779527295,167.64,122.402
+117205,36,"Female","Married","Asian","Non-Hispanic or Latino","English",100,11645.2892711114,29499.4619129603,93.78,162.658763406508,76.1179
+117308,58,"Male","Married","Caucasian","Non-Hispanic or Latino","English",95,56924.5083623619,79552.2333333333,808.421047132881,177.207094005058,95.2521597039683
+117850,42,"Female","Unmarried","African American","Non-Hispanic or Latino","English",83,26375.6,49913.6440196078,615.845385456037,167.180777697362,130.771
+118081,42,"Female","Married","African American","Non-Hispanic or Latino","English",61,15704.529,35179.5042156863,406.8283333,160,68.8992
+118430,38,"Male","Unmarried","Caucasian","Hispanic or Latino","English",0,126997.755,186962,877.395048100556,175.300188504113,70.216
+118434,48,"Female","Married","Caucasian","Non-Hispanic or Latino","English",351,34511.654,75882.4886370635,1020.708056,160.02,73.01097886152
+119031,76,"Female","Married","Caucasian","Non-Hispanic or Latino","English",44,28388.6847434343,48671.4749083333,636.432378381854,160.02,77.7379
+119119,24,"Male","Unmarried","African American","Non-Hispanic or Latino","English",0,51496.1801848916,83346,737.5155556,175.338491942746,89.1412979160948
+119534,74,"Female","Married","Caucasian","Non-Hispanic or Latino","English",12,31642.941149945,62891.3103326536,646.553800314628,162.253412223,71.5768
+119655,35,"Male","Unmarried","Asian","Non-Hispanic or Latino","English",94,792.48,1452,71.571829584731,171.58546764555,86.0865748916667
+119926,66,"Male","Married","African American","Non-Hispanic or Latino","English",66,2004.763,2660,154.824831341436,175.056325714048,105.473
+120359,38,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",103,79462.952,94515,1217.272222,171.448452847222,94.5739
+120698,26,"Female","Unknown","Other","Non-Hispanic or Latino","English",0,28565.462,69375,629.4422222,164.388205368257,59.9195
+120761,49,"Male","Married","Caucasian","Non-Hispanic or Latino","English",11,37040.0555143691,55559,633.023429933874,174.702866578771,99.9263
+120849,47,"Male","Married","African American","Non-Hispanic or Latino","English",119,113335.25,123575,975.5161111,179.07,79.5147
+121245,59,"Female","Married","Caucasian","Unknown","English",139,106223.062,163923.482888889,1127.291111,163.195,75.4686646971712
+121388,36,"Male","Unmarried","Other","Hispanic or Latino","English",27,19096.29,33036.4866873273,391.940630667108,171.45,77.9808056666999
+122137,52,"Male","Married","Caucasian","Non-Hispanic or Latino","English",139,20216.5268133333,35398,389.1305556,168.91,82.5733864372667
+122304,46,"Male","Married","Caucasian","Non-Hispanic or Latino","English",64,127679.725,103709.085368408,1004.3908590981,186.055,116.599555177773
+122401,46,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",40,38379.642,71885.93,876.0686111,167.64,76.1344498545123
+122436,48,"Male","Married","Caucasian","Non-Hispanic or Latino","English",123,25145.3604224759,32106.4347743003,0.173888889,175.26,77.7457
+122687,48,"Male","Married","Other","Unknown","English",87,22672.794,52836.3690131059,544.535092060306,170.585675,86.8427978499999
+123257,55,"Male","Married","Caucasian","Non-Hispanic or Latino","English",0,0.093,20440.4170752222,0,182.88,92.1464258909091
+123799,55,"Female","Married","Asian","Non-Hispanic or Latino","English",158,30848.25,73411.0274772197,662.752909199975,159.385,53.8867
+123980,49,"Female","Married","Caucasian","Non-Hispanic or Latino","English",122,32520.94,90025.552652506,939.0202778,161.042716278805,56.2454
+124139,70,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",54,2.115,14,0.125,175.81831290115,83.9145
+124147,19,"Male","Unknown","African American","Non-Hispanic or Latino","English",8,52014.9451942857,88102,1140.565,172.404724868516,85.5714913390572
+124171,50,"Male","Married","African American","Non-Hispanic or Latino","English",0,39245.5526016666,54393,697.1041667,176.924242023809,96.7319074617883
+124336,43,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",64,32656.357,58026.073964183,629.3788889,166.176307292569,72.484
+124396,54,"Female","Married","Asian","Non-Hispanic or Latino","English",0,37439.0240588235,65259.557978317,635.2583333,156.21,66.7053850881936
+124414,28,"Male","Unmarried","Caucasian","Hispanic or Latino","English",48,18528.4236516667,39025,318.0480556,173.399512642857,68.3321203388
+124438,53,"Male","Married","Caucasian","Non-Hispanic or Latino","English",76,61671.723714392,99638.6153333333,1044.406111,171.45,96.6151
+124816,53,"Female","Married","Caucasian","Non-Hispanic or Latino","English",38,22905.281,49562.4722875299,582.86389815268,178.435,98.3778206819626
+124837,52,"Female","Married","Caucasian","Unknown","English",178,17858.289,31535,349.4536111,161.29,98.4295
+125277,66,"Female","Married","Caucasian","Non-Hispanic or Latino","English",179,2.022,13,0.145277778,169.418,73.43655
+125665,43,"Female","Unmarried","African American","Non-Hispanic or Latino","English",0,9976.8017947612,2068,131.975321847762,158.75,94.4379
+125857,63,"Female","Married","Caucasian","Non-Hispanic or Latino","English",174,15101.010532,38643.2683333333,382.309984588358,160.02,66.111
+125915,66,"Female","Married","Caucasian","Non-Hispanic or Latino","English",292,1286.35,2726,89.471322910195,152.9563333,91.29293333
+126258,51,"Female","Married","African American","Non-Hispanic or Latino","English",109,36313.5108175,57855,782.0619444,161.29,82.0738843266572
+126305,21,"Female","Unknown","Asian","Non-Hispanic or Latino","English",0,17173.834050155,34676.0506666667,417.831004228245,162.041634481473,73.3912
+126466,38,"Male","Unmarried","Asian","Non-Hispanic or Latino","English",0,28413.965,71957,885.0525,165.735,77.6010902778
+126601,54,"Female","Married","Caucasian","Non-Hispanic or Latino","English",4,56088.0920972395,138284,917.424142337534,163.83,66.4966
+126840,50,"Female","Married","Caucasian","Non-Hispanic or Latino","English",194,39040.2869160566,60500.1455491991,753.132513536683,161.036,64.5008
+126928,45,"Female","Married","Caucasian","Non-Hispanic or Latino","English",380,39914.0867711622,98909.3583333333,735.9166667,174.625,64.4101
+126959,53,"Male","Married","Other","Unknown","English",122,21340.786,68034,395.9905556,173.99,82.0283759170638
+127186,23,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",36,30696.751985,48074,654.827585183366,158.75,57.6062
+127251,60,"Male","Married","African American","Non-Hispanic or Latino","English",114,40062.339,63580,847.4064734713,173.355,78.6528
+127327,62,"Female","Married","Asian","Non-Hispanic or Latino","English",374,30955.71640175,53764,595.0611111,160.519298022311,56.60825
+127539,42,"Female","Married","Caucasian","Non-Hispanic or Latino","English",129,22109.198344386,37045,378.2319444,170.371966055556,135.488
+127708,52,"Female","Married","Caucasian","Non-Hispanic or Latino","English",927,23402.8775751488,31585.3195310462,98.25303055331,164.42910550505,89.2669
+127743,22,"Female","Unmarried","African American","Non-Hispanic or Latino","English",77,25837.8804180952,58002,729.9586111,153.035,78.9704
+127771,39,"Male","Married","Caucasian","Hispanic or Latino","English",123,56032.219645,84709.0892409921,936.3452778,172.974,95.1976428735255
+127828,65,"Female","Married","Caucasian","Non-Hispanic or Latino","English",79,19109.1403659821,35666.6156666667,414.039309167575,157.48,67.313
+127857,49,"Female","Married","Asian","Non-Hispanic or Latino","English",96,31154.7342801587,55387,675.9438889,161.320059166667,57.0165
+128220,36,"Female","Unmarried","African American","Non-Hispanic or Latino","English",105,8173.73859333333,2518,167.341680257995,165.172884381011,66.2698
+128856,79,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",0,22792.236,50097.638993592,677.8633333,171.08805,84.2774
+129291,42,"Female","Married","Other","Hispanic or Latino","English",176,49081.983,68335.2702325794,791.1669444,164.87517657771,115.711
+129393,43,"Male","Married","Asian","Non-Hispanic or Latino","English",7,77087.4146229727,128263,936.9049810335,167.005,75.9991592910893
+129468,39,"Male","Unknown","Caucasian","Non-Hispanic or Latino","English",116,41524.1718664286,52371,637.2430556,191.135,137.892
+129852,32,"Female","Unmarried","Other","Unknown","English",18,75362.429,100987,946.802403987149,169.345046290545,88.0516726248561
+129932,56,"Female","Married","Caucasian","Non-Hispanic or Latino","English",320,31742.0376116667,78809,725.423326582667,161.172880545427,55.9733
+130062,49,"Female","Married","Caucasian","Non-Hispanic or Latino","English",307,54985.676,56830,882.338472670997,169.416602778333,84.4232570807728
+130139,53,"Female","Married","Caucasian","Non-Hispanic or Latino","English",112,21660.545,53705,544.078743908586,152.0825,68.731690416886
+130351,60,"Female","Married","African American","Non-Hispanic or Latino","English",111,50964.83,87549.5173676126,1050.8875,163.720225929238,71.7129
+130430,33,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",105,75071.6814008333,108679,928.522080341891,168.183987955545,104.644
+131079,74,"Male","Married","Caucasian","Non-Hispanic or Latino","English",53,44873.605,81818.2205325526,944.0180556,161.29,84.4179793143667
+131819,55,"Female","Married","Caucasian","Non-Hispanic or Latino","English",0,45669.995,76790,921.048127024758,166.352845424388,63.9993
+131835,36,"Female","Married","Caucasian","Non-Hispanic or Latino","English",0,39344.2832716163,76129,839.501163627929,154.94,54.5331
+132191,19,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",0,20198.986,50523.18,498.5991667,165.735,72.6654
+132283,55,"Female","Married","Caucasian","Non-Hispanic or Latino","English",74,35766.437,45404,603.7902778,162.55716652303,77.5727465299429
+132579,43,"Female","Unknown","Asian","Non-Hispanic or Latino","English",0,9667.73117954155,2498,22.80222222,152.4,62.2328
+132803,22,"Male","Unmarried","African American","Non-Hispanic or Latino","English",0,23790.6820701624,11156,254.8728610751,178.435,84.9124
+132914,36,"Male","Unmarried","Other","Hispanic or Latino","English",0,103327.5671725,284777,1347.524167,180.975,89.3114561978251
+133176,55,"Male","Married","Caucasian","Non-Hispanic or Latino","English",22,28028.493,48963,650.1366667,176.841628187251,97.5223
+133436,35,"Male","Married","Asian","Non-Hispanic or Latino","English",88,21209.685,38188.9278172222,349.4322222,167.005,83.9599
+133749,41,"Male","Unknown","Caucasian","Non-Hispanic or Latino","English",12,11404.212,21661.1451216667,228.8686111,176.142195452763,105.687
+134440,57,"Female","Married","Caucasian","Hispanic or Latino","English",129,28884.158,68661,876.4066667,157.48,82.5991
+134696,56,"Male","Married","Caucasian","Non-Hispanic or Latino","English",179,30045.2476439608,52156.805,453.3205556,183.515,102.3305
+134810,27,"Male","Unmarried","African American","Non-Hispanic or Latino","English",1,73305.17,73297,906.893756855414,167.64,107.819
+134847,57,"Female","Married","Other","Non-Hispanic or Latino","English",349,25699.898375,55753,628.603835259713,162.41765054206,76.1127
+135111,22,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",66,8799.23868289786,10841,127.9044444,171.45,72.6201
+135712,47,"Male","Married","African American","Non-Hispanic or Latino","English",95,83773.498,73623,904.293377803765,175.060914206925,95.0846451286369
+135732,39,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",255,14984.018,19590,260.736769172363,179.420345833333,96.3883
+135980,55,"Female","Married","Caucasian","Non-Hispanic or Latino","English",86,29260.623,50104.4161852632,566.8883333,174.625,141.611
+136605,75,"Female","Married","Asian","Non-Hispanic or Latino","English",134,16852.121,44144.7247861166,429.662639595512,159.036323333333,64.0018
+136618,52,"Male","Married","Caucasian","Non-Hispanic or Latino","English",0,40475.311,69647.8633333333,675.0902778,174.501,93.6905404197256
+136638,21,"Male","Unknown","Asian","Non-Hispanic or Latino","English",0,21938.4806295019,38394.6080098465,350.1338889,177.8,72.7312836667999
+136720,31,"Female","Married","Caucasian","Non-Hispanic or Latino","English",114,65600.849,74954,882.6536111,173.195985555556,135.397
+136999,60,"Male","Married","Asian","Non-Hispanic or Latino","English",102,23718.2593155494,41013,448.87206576107,172.72,79.33325
+137446,43,"Female","Married","Asian","Non-Hispanic or Latino","English",251,9600.641,25394,194.2933333,171.45,72.2118
+137491,68,"Male","Married","African American","Non-Hispanic or Latino","English",133,20528.2290862292,38965,448.5110750008,176.53,80.3765
+137776,51,"Male","Married","Caucasian","Non-Hispanic or Latino","English",35,27949.213,40067,437.82592688253,178.073484999833,98.0212
+139065,39,"Male","Unknown","Asian","Hispanic or Latino","English",38,18347.481,31514,393.924548251205,179.07,75.7499
+139097,48,"Female","Married","Caucasian","Non-Hispanic or Latino","English",257,46069.77,106973,929.5236111,164.334215947952,73.5944537852334
+139745,43,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",0,44476.098,89851.385895,1026.735556,173.807500224332,81.0115
+139853,52,"Male","Married","Caucasian","Non-Hispanic or Latino","English",0,30139.834,51707.9823181818,597.130287338778,176.675686989899,82.1909
+140386,46,"Female","Married","African American","Non-Hispanic or Latino","English",113,5594.28176919639,5834.02666666667,0.008611111,163.58884120955,86.001
+140563,76,"Male","Married","Caucasian","Non-Hispanic or Latino","English",108,29533.982,34830,478.7741667,179.566856111111,125.4304
+140778,57,"Male","Married","Caucasian","Non-Hispanic or Latino","English",194,99680.7476475,186304,991.7519444,173.214232916667,82.6593794809524
+140881,20,"Male","Unmarried","African American","Non-Hispanic or Latino","English",9,3195.795,36671.875,313.468348257327,180.34,63.9565
+141089,35,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",262,55488.257,93869.4541666667,717.8897222,183.515,92.968898572
+142355,51,"Male","Married","African American","Non-Hispanic or Latino","English",126,67728.779,85926.6521285251,811.7427778,187.96,102.92
+142412,39,"Male","Married","Caucasian","Non-Hispanic or Latino","English",35,53682.65,80518.4045833333,893.5888889,180.34,79.8322
+142905,44,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",133,47487.035,102755.285833333,1063.211944,162.804662896161,73.8669641666334
+142932,41,"Female","Unmarried","Caucasian","Unknown","English",257,53001.339,104136,920.644789542745,165.289523423164,69.8078
+142958,39,"Female","Unmarried","Other","Non-Hispanic or Latino","English",120,52585.294035,140133.649,1252.176111,165.1,62.4143
+143333,30,"Male","Unmarried","African American","Non-Hispanic or Latino","English",12,78864.223,155310,1166.278611,169.858650195715,91.0835795657103
+143348,45,"Male","Married","African American","Unknown","English",0,84762.849,83775.2650645382,844.415743704181,177.8,73.7994
+143724,65,"Female","Married","Caucasian","Non-Hispanic or Latino","English",21,20548.0770383333,30216.0235714286,184.6744444,166.079943979167,77.9271
+144031,58,"Male","Married","Caucasian","Non-Hispanic or Latino","English",51,84776.925,111529,932.3922222,177.165,91.8524
+144398,25,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",62,64204.714,107192,1002.474167,162.56,68.5831
+144473,58,"Female","Married","Caucasian","Non-Hispanic or Latino","English",215,46040.8913186786,88972.1186615033,1018.706944,166.4,103.873
+144504,34,"Male","Unmarried","Asian","Non-Hispanic or Latino","English",37,24486.002,48800.4435357675,458.423063742346,186.69,85.3207
+144775,52,"Female","Married","Caucasian","Non-Hispanic or Latino","English",0,54477.787,49084,679.806485408083,171.335565600908,119.159
+145245,68,"Female","Married","Other","Non-Hispanic or Latino","English",191,30197.0641014021,65591.7840815425,715.2672222,158.568406667,53.3424
+145470,55,"Male","Married","Caucasian","Non-Hispanic or Latino","English",194,53405.443,64633,934.0213889,177.165,106.912
+145745,38,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",55,33927.9336567125,57267,733.462415755577,167.64,81.0108576928334
+145942,57,"Male","Married","African American","Non-Hispanic or Latino","English",70,3.428,3,0.025833333,175.063364925037,113.353
+146092,71,"Male","Married","Caucasian","Non-Hispanic or Latino","English",120,31185.893,74483,780.465769734852,185.42,91.00776667
+147474,44,"Male","Unknown","Other","Non-Hispanic or Latino","English",203,48208.7390831948,71588,705.268545640655,174.771262252889,89.0123246480847
+148201,63,"Male","Married","Asian","Non-Hispanic or Latino","English",76,45965.415,71795.55,820.171967621402,170.18,88.4538626300366
+149317,52,"Female","Married","Asian","Non-Hispanic or Latino","English",0,16295.137,32837.0783333333,311.890824505671,162.358778932509,75.2509
+149832,58,"Female","Married","Caucasian","Non-Hispanic or Latino","English",0,48090.045,59195,806.006375127805,172.72,110.586
+150551,63,"Male","Married","Asian","Non-Hispanic or Latino","English",79,40780.923,56859.1533333333,742.146182473323,174.0117029266,76.4756
+150604,37,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",128,54267.3273400963,110383,850.816314643216,182.88,97.8828357570054
+150629,26,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",51,26074.376,48582.7647857936,599.488119867041,153.67,65.4102703874917
+150647,37,"Male","Married","African American","Non-Hispanic or Latino","English",27,23319.765106575,27505,317.4736111,174.659598823569,107.365
+150959,63,"Male","Married","Caucasian","Non-Hispanic or Latino","English",110,43486.192,61025.57125,470.6036111,178.790520583696,117.586
+152915,23,"Female","Unmarried","African American","Non-Hispanic or Latino","English",10,34917.318,52529,673.191709363907,161.869169028567,75.4063633
+153257,24,"Male","Unmarried","Other","Non-Hispanic or Latino","English",0,28951.1828022623,48487.1999130159,487.2425,178.0378325,76.7931
+153656,25,"Female","Married","Other","Non-Hispanic or Latino","English",0,11066.3032360973,1862,136.710836661646,162.56,81.438269735
+153888,41,"Male","Married","Asian","Non-Hispanic or Latino","English",77,14699.36807154,18806,307.427416914453,182.372,84.8671
+154188,44,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",267,58733.8694706429,74950.9583333333,1064.441389,181.61,100.631247333333
+154426,45,"Male","Married","Asian","Non-Hispanic or Latino","English",154,50439.0239758333,98731.2746137973,932.9066667,167.64,71.5768
+155069,74,"Male","Married","Caucasian","Non-Hispanic or Latino","English",191,81919.367,102561.318666667,1089.255833,173.99,75.5004
+155313,48,"Female","Married","African American","Non-Hispanic or Latino","English",82,16473.921,29371,306.7813889,163.14597334025,65.5894
+155320,52,"Female","Married","Caucasian","Non-Hispanic or Latino","English",27,36145.3059666667,72445.86,841.431556811761,162.56,80.1724075003485
+155725,25,"Female","Unknown","Other","Hispanic or Latino","English",58,18609.22,88812.55,557.871786483375,161.318525863014,69.820203025532
+156143,51,"Female","Married","Caucasian","Non-Hispanic or Latino","English",152,59650.211,83935.4447222222,1093.419722,164.494096785,68.430705448527
+156415,45,"Female","Married","Caucasian","Non-Hispanic or Latino","English",3,73442.714,110863,999.956987001637,160.655,113.897
+156783,21,"Female","Unmarried","African American","Non-Hispanic or Latino","English",140,25732.4444516667,43710,612.4427778,165.735,77.0440052587785
+157988,42,"Male","Married","Other","Hispanic or Latino","English",125,18648.470425,32644,310.8769444,175.26,72.8469
+158337,58,"Male","Married","African American","Non-Hispanic or Latino","English",75,35387.575,37187,494.560944278501,177.700618130876,131.542
+158377,52,"Male","Married","Caucasian","Non-Hispanic or Latino","English",0,17645.738,28891,320.7805556,178.435,89.1284999953266
+158691,55,"Female","Married","Asian","Non-Hispanic or Latino","English",338,51771.071,129612.667012878,1310.028333,161.925,71.2149070562689
+158990,73,"Male","Married","Caucasian","Non-Hispanic or Latino","English",136,42142.8844594073,70147,956.800434325365,178.805918094795,97.13675
+159125,46,"Male","Married","African American","Non-Hispanic or Latino","English",35,57753.5285432468,78958.1976903908,825.3486111,175.402759285714,87.38451088334
+159933,34,"Male","Unmarried","Other","Hispanic or Latino","English",151,27005.2090253514,37789,445.7908333,172.72,102.013
+160125,43,"Male","Unmarried","African American","Non-Hispanic or Latino","English",125,40714.459,61673,701.7311111,187.325,106.685
+160858,45,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",122,4786.116,10556,136.867134078343,165.0279075,87.8023877257
+161006,32,"Male","Unmarried","Asian","Non-Hispanic or Latino","English",51,10468.264,24104,270.7769444,182.5675,59.28445
+161147,20,"Male","Unmarried","Other","Non-Hispanic or Latino","English",84,4368.222,3624,217.588037527717,177.8,96.6605
+161347,51,"Female","Married","Caucasian","Non-Hispanic or Latino","English",321,54927.4376967857,99835.7583333333,901.340452362194,154.94,86.4093
+162289,27,"Male","Unmarried","Asian","Non-Hispanic or Latino","English",0,40187.938,47604,459.5730556,175.294646107117,86.0854275
+162580,47,"Male","Married","Caucasian","Non-Hispanic or Latino","English",323,119911.501,180008.319235214,1164.906667,175.345152833667,96.9042177
+162587,60,"Female","Married","Caucasian","Non-Hispanic or Latino","English",0,50594.902105,87300.7218202381,922.8380556,165.217946458333,97.5223
+163035,32,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",63,25002.534,39682,431.4466667,172.72,79.5944476873955
+163568,50,"Female","Married","African American","Non-Hispanic or Latino","English",105,23624.285,58470.5963037252,502.6947222,162.56,91.99939883335
+164260,29,"Female","Unmarried","African American","Non-Hispanic or Latino","English",75,26862.2621392424,49018.6085128924,500.0813889,160.02,66.9502
+164389,47,"Male","Married","African American","Non-Hispanic or Latino","English",99,30034.0123491667,43778,511.855,179.722830333333,105.415
+164478,61,"Female","Married","Caucasian","Non-Hispanic or Latino","English",158,56697.108,86228.4198290572,1115.703056,160.02,79.0713110512222
+164653,64,"Female","Married","Caucasian","Non-Hispanic or Latino","English",29,58098.9490579167,150446,961.0486111,162.56,95.3224
+164745,48,"Male","Married","African American","Non-Hispanic or Latino","English",142,106723.749,113210,911.452696985405,186.436,134.898
+164959,65,"Female","Married","Other","Hispanic or Latino","English",0,24675.5265160598,54595.5824299579,677.2127778,154.305,66.3605
+165165,44,"Male","Married","Caucasian","Non-Hispanic or Latino","English",26,55876.513,79988,830.3747222,175.376268744627,88.7633507030292
+165229,19,"Female","Unmarried","Other","Non-Hispanic or Latino","English",46,6316.454,15788.2715695833,119.0744444,152.4,67.8191395556769
+165378,59,"Female","Married","Caucasian","Non-Hispanic or Latino","English",87,33681.935,75130,1010.25,152.3505,70.9476565805685
+166365,61,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",93,62228.7583492139,110654,904.334625647783,177.65,93.4799961423761
+166405,54,"Female","Married","Other","Non-Hispanic or Latino","English",38,29464.962,50378,682.574875169923,160.02,68.0648079237342
+166683,54,"Female","Married","Caucasian","Non-Hispanic or Latino","English",88,36827.61,69762.76,852.7969444,163.42317245874,79.4417542895483
+166693,53,"Male","Married","Caucasian","Non-Hispanic or Latino","English",135,76422.693,98174,826.2311111,176.252187552849,88.6788307717
+167054,55,"Female","Married","Caucasian","Hispanic or Latino","English",140,18636.427,28149.7819047619,246.5969444,166.496657312967,78.29
+167974,47,"Female","Married","Other","Hispanic or Latino","English",257,19838.85022,30972,361.87469902583,167.150469059794,83.6966823689374
+169001,72,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",281,16605.1092798466,34294.8775339683,345.5366667,162.112955835,80.1938275862465
+169067,55,"Female","Married","Caucasian","Non-Hispanic or Latino","English",13,16826.9890287489,25274,304.260347959497,166.131987960929,88.269
+169138,37,"Male","Married","African American","Non-Hispanic or Latino","English",60,20541.836,32551,375.399716031722,180.678,76.7105
+169209,23,"Female","Unmarried","Other","Unknown","English",48,29324.9220812199,57428.92,579.0602778,160.435863333333,54.6578
+169238,51,"Female","Married","Caucasian","Non-Hispanic or Latino","English",81,36465.11,63303,742.6786111,163.83,76.0607875499424
+169398,39,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",37,25043.765,33768,382.731358174525,160.601144022393,86.7268
+170220,21,"Male","Unmarried","African American","Non-Hispanic or Latino","English",0,7788.763,28908.1592216026,332.858782240887,185.42,113.942
+170685,51,"Male","Married","Asian","Non-Hispanic or Latino","English",207,50451.466,76456,1144.416944,176.091818844982,122.379
+171065,41,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",252,35612.369,68221,844.8194444,167.64,80.6954786374558
+171313,29,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",10,16632.038,36767,380.326810726709,158.115,63.1858618108667
+171723,57,"Female","Married","Asian","Non-Hispanic or Latino","English",376,9088.897,38708,311.415779701292,161.29,54.8846
+171942,38,"Male","Unmarried","African American","Non-Hispanic or Latino","English",96,4744.758,6672,143.835843515337,175.895,79.7447131458667
+172220,45,"Male","Married","African American","Non-Hispanic or Latino","English",0,155603.969,158300,1077.1936375549,189.23,140.795
+172658,35,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",63,10608.46,21612,221.5880556,163.593440544859,81.4198
+173041,22,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",408,50741.8621866835,69250.3509444444,809.219765837928,185.42,77.9271
+173576,54,"Female","Married","Caucasian","Non-Hispanic or Latino","English",60,32956.24,69774,809.346023530933,167.103572829633,90.6683875
+173939,49,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",53,39238.629,58636,880.8230556,161.29,78.5793422837418
+174537,24,"Female","Unknown","Other","Non-Hispanic or Latino","English",401,23612.8637589057,40151,578.4252778,167.64,84.0193640474227
+175009,30,"Male","Unmarried","Other","Non-Hispanic or Latino","English",87,36136.356,70289.2,1017.789444,163.83,66.8141
+175150,46,"Male","Married","Caucasian","Non-Hispanic or Latino","English",48,36358.684,63079.8465918254,641.72885671069,166.37,60.0102
+175204,47,"Male","Married","Other","Non-Hispanic or Latino","English",114,13908.206,35021.5824346032,282.855633751089,173.355,122.515
+175215,21,"Male","Unmarried","African American","Non-Hispanic or Latino","English",0,30583.1654617317,41657.6011346314,508.722243987107,171.45,90.3019867246962
+175254,56,"Female","Married","Caucasian","Non-Hispanic or Latino","English",318,32346.7766646667,64022.688125,697.5066667,163.83,75.1496028
+175462,42,"Female","Unmarried","African American","Non-Hispanic or Latino","English",43,34852.445,66452.5838083333,660.716205122501,157.48,88.904
+175948,42,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",134,47280.351,80821.81852864,1065.523889,165.803132351481,76.7710513730633
+176088,53,"Male","Married","Caucasian","Non-Hispanic or Latino","English",46,73503.695,74532,949.2886111,174.406773870323,98.4958203322187
+176118,53,"Female","Married","Asian","Non-Hispanic or Latino","English",0,29844.618,51450,632.86457835333,162.76599454547,69.7180293056
+176564,37,"Female","Married","Caucasian","Non-Hispanic or Latino","English",96,36593.0783075,58523.7590196078,755.72328456504,165.1,81.722554887547
+176889,57,"Male","Married","Caucasian","Non-Hispanic or Latino","English",229,39654.765,62987,960.0630556,174.295553114348,89.0098553519386
+177066,67,"Female","Unknown","African American","Non-Hispanic or Latino","English",104,21493.394,54958,568.47218798829,170.815,81.4113273353699
+177206,56,"Female","Married","Caucasian","Non-Hispanic or Latino","English",0,25040.9114386351,59266,579.413020339256,154.94,52.9342
+177766,59,"Male","Married","Asian","Non-Hispanic or Latino","English",76,135075.694,538426,1147.68171583742,171.1325,90.9257408207151
+179360,60,"Female","Married","Caucasian","Non-Hispanic or Latino","English",148,38390.706,63931.327644717,767.5630556,167.567262202227,93.7575
+179458,61,"Female","Unknown","African American","Non-Hispanic or Latino","English",285,3768.449,12518,104.0736111,161.29,67.812
+179738,47,"Female","Married","Asian","Non-Hispanic or Latino","English",84,18687.918,40967.19615,452.1,152.4,72.2455841086667
+179814,35,"Female","Married","Asian","Non-Hispanic or Latino","English",224,9053.639,43411.0890491729,397.120586489568,153.3525,79.12956923
+180270,71,"Male","Married","Caucasian","Non-Hispanic or Latino","English",0,33750.21,53208.2628547944,645.034399815767,183.515,86.6361
+180552,49,"Male","Married","Asian","Non-Hispanic or Latino","English",0,44297.224,67109.3793333333,704.7486111,177.165,75.2975665738095
+180605,51,"Male","Married","Other","Non-Hispanic or Latino","English",0,53773.7142521044,82346,1081.273056,175.26,108.771
+181020,58,"Female","Married","Caucasian","Non-Hispanic or Latino","English",136,19103.6880900549,33576,275.4336111,166.651966110983,105.551
+181158,19,"Male","Unknown","Caucasian","Non-Hispanic or Latino","English",259,63701.115,105385.957274028,1168.233333,180.34,95.3626745258571
+181263,48,"Male","Unknown","Asian","Non-Hispanic or Latino","Not English",0,7316.508,15214,194.717698850927,163.83,77.798236625
+181291,38,"Female","Unknown","African American","Non-Hispanic or Latino","English",0,37383.350923602,59895.9963433694,693.752649840731,165.1,92.6235
+181798,64,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",86,39659.33323325,53086,766.4438889,167.627848596532,96.9326
+181909,61,"Female","Unknown","Caucasian","Non-Hispanic or Latino","English",90,15708.4829692589,30882.3145833333,265.7891667,167.088141376336,85.45675
+182321,42,"Male","Married","Caucasian","Non-Hispanic or Latino","English",17,66472.702,135027,1441.055833,180.975,95.2966306537721
+182480,22,"Male","Unmarried","African American","Non-Hispanic or Latino","English",42,20121.388,55988,669.8194444,171.9,55.7995
+182717,30,"Female","Unmarried","Other","Hispanic or Latino","English",189,27491.7559865365,44580,693.1570895756,154.94,67.2671266866794
+183842,32,"Female","Unmarried","Other","Hispanic or Latino","English",26,17369.854,42250,321.9997222,164.456199110551,67.7967059194334
+184319,19,"Male","Unmarried","Caucasian","Hispanic or Latino","English",153,57150.8866466666,76666.0366657215,833.72276639268,180.090850256312,99.9925879363888
+184487,21,"Male","Unmarried","Asian","Non-Hispanic or Latino","English",0,16410.648802,27370,320.031672720928,172.482613333333,79.4693
+184548,50,"Female","Married","Caucasian","Non-Hispanic or Latino","English",0,17286.394,36445,217.2113889,165.735,81.9641
+185375,34,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",0,6602.672,29789.875,422.58583693552,165.050656487225,81.8734
+185583,48,"Female","Married","Caucasian","Hispanic or Latino","English",160,10926.971,26408,364.6736111,163.18337509657,83.4222190311159
+185746,41,"Female","Married","Asian","Non-Hispanic or Latino","English",47,35173.1845932454,57355,652.2836111,159.319106323071,64.9649145670241
+185903,42,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",275,2156.224,4880,54.01527778,167.3,85.0026619167
+186373,49,"Male","Married","Caucasian","Non-Hispanic or Latino","English",74,24139.11,39869,493.3963889,171.45,90.6542112286666
+186643,53,"Female","Married","Caucasian","Non-Hispanic or Latino","English",331,28603.76,57183.77,661.290806966611,169.941924282609,113.806
+187014,46,"Female","Married","Caucasian","Non-Hispanic or Latino","English",3,60259.314759874,94139.445,1203.481667,174.9425,84.52685
+187410,30,"Female","Unmarried","Other","Hispanic or Latino","English",0,27306.306,59137,588.994666581114,165.735,74.9299184827251
+187755,45,"Male","Married","Asian","Non-Hispanic or Latino","English",8,53139.894,72279.2294166667,930.974322357727,172.085,86.3967499853953
+187879,29,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",41,16143.078,23553.5184681859,317.068556259262,168.91,82.3723
+188018,49,"Female","Married","Caucasian","Non-Hispanic or Latino","English",80,33369.589,58711.5952380952,743.8092474386,163.83,82.9166
+188128,33,"Male","Unmarried","African American","Non-Hispanic or Latino","English",0,40703.4399109576,59667,746.1652778,181.489704815476,87.0017761706721
+189273,36,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",0,38060.271885,62672.6173755688,814.2633333,162.578774562992,78.0115289987575
+189679,54,"Female","Married","Caucasian","Non-Hispanic or Latino","English",25,40567.355,62583.9891205446,799.599468372765,168.989345861281,85.6382
+189720,21,"Female","Unmarried","Other","Non-Hispanic or Latino","English",0,20666.2506351002,39944,494.329422670825,159.871012521795,61.9153
+189952,51,"Female","Married","Caucasian","Non-Hispanic or Latino","English",171,9345.91630249999,19671.3312744979,120.85,163.324178947402,85.6810337185223
+190022,40,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",203,49944.915,96571,979.8225,161.499362763236,68.9913
+190118,52,"Female","Married","Caucasian","Non-Hispanic or Latino","English",0,2.497,16,0.1475,163.52266,54.0682
+190249,50,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",80,8415.146,11305.758,140.694088411372,167.413908148777,87.1767150363966
+190303,56,"Female","Married","Caucasian","Non-Hispanic or Latino","English",145,41803.752,78052,653.2780556,168.275,75.9767
+190655,52,"Male","Married","Caucasian","Non-Hispanic or Latino","English",0,48448.64,81772.1373976959,966.7730556,168.275,83.8776595175944
+191798,53,"Male","Married","Caucasian","Non-Hispanic or Latino","English",65,43148.3436366667,59908.1473809524,764.040745153601,187.96,97.3408
+192305,19,"Female","Unknown","Asian","Non-Hispanic or Latino","English",0,13478.517,27829,294.69981444299,165.975374532693,67.9027
+193081,27,"Male","Unmarried","African American","Non-Hispanic or Latino","English",0,15696.64,13913,280.318444125997,192.4336667,119.23275
+193138,35,"Female","Married","Asian","Non-Hispanic or Latino","English",279,28992.4922077288,55118,625.6133333,166.840192609981,78.5030621531253
+193176,36,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",71,53496.125568,70737,879.367588698989,179.07,95.3526337591904
+193205,87,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",184,21102.083,63317,605.82039129367,159.3748525,51.9363
+193427,48,"Male","Married","African American","Non-Hispanic or Latino","English",97,56702.59348,79509,892.477184460274,186.055,97.2048
+193598,21,"Male","Unmarried","Other","Non-Hispanic or Latino","Not English",125,24657.997,42629.5014664358,529.229049664153,174.123842727273,78.4714
+194559,46,"Female","Married","African American","Non-Hispanic or Latino","English",50,34047.357,69390.6748983495,672.367924062666,168.275,85.568533015
+194655,25,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",21,16938.816,33110,455.1569444,162.113963904762,56.8351
+194663,32,"Male","Unmarried","African American","Non-Hispanic or Latino","English",0,27224.4407266667,21900,322.9394444,177.820375563968,92.4151600334628
+194819,50,"Male","Married","Asian","Non-Hispanic or Latino","English",102,22260.4250213333,35070.986547619,170.265,171.616742898394,58.11585556
+195586,47,"Female","Married","Caucasian","Non-Hispanic or Latino","English",105,20476.7479455476,43670,370.7758333,160.02,72.5294
+195654,63,"Female","Married","Caucasian","Non-Hispanic or Latino","English",227,47476.268,188737,1202.42896285636,153.67,62.006
+195923,52,"Female","Married","Caucasian","Non-Hispanic or Latino","English",258,18314.314,29760,335.4525,166.37,108.227
+195960,35,"Male","Married","Asian","Non-Hispanic or Latino","English",107,3349.283,5315,168.32155292103,173.458288161113,77.6889073207263
+195993,46,"Female","Married","Asian","Non-Hispanic or Latino","English",73,37066.814,65505.2476020166,803.1691667,162.140321576778,55.6557
+196097,58,"Female","Married","African American","Non-Hispanic or Latino","English",257,34579.186,71880,931.8230556,170.18,76.2942
+196116,20,"Female","Unmarried","African American","Non-Hispanic or Latino","English",54,4310.214,10481,141.3580556,167.64,112.567606091555
+196177,49,"Female","Married","Asian","Non-Hispanic or Latino","English",11,30640.32,73785,692.2330556,159.668141257937,49.3055
+196519,24,"Male","Unmarried","Asian","Non-Hispanic or Latino","English",2,10258.9133109247,1355,4.774722222,172.234701668,86.9536
+196527,41,"Male","Married","Caucasian","Non-Hispanic or Latino","English",51,6086.077,18624.0735557145,109.3216667,182.245,106.59351305962
+196644,51,"Male","Married","Caucasian","Non-Hispanic or Latino","English",0,62052.291,76238.1570807838,761.100781693631,177.165,88.45045
+197406,58,"Male","Married","African American","Non-Hispanic or Latino","English",171,116312.557,120897,1169.879444,179.534812556,127.822
+197955,24,"Female","Unmarried","Other","Unknown","English",160,37394.46701,68602,947.4930556,163.88450818349,74.4020375481354
+198177,43,"Female","Unmarried","Other","Hispanic or Latino","English",266,13878.05,16706,232.364308409581,165.1,124.738
+199443,75,"Female","Married","Caucasian","Non-Hispanic or Latino","English",146,39861.9292842857,93815.88,1034.075833,162.069114445444,65.7255
+199609,40,"Female","Unmarried","Other","Hispanic or Latino","English",119,26913.7952812902,54069.2547252119,580.908712502203,170.18,86.2732
+200068,62,"Female","Married","Caucasian","Non-Hispanic or Latino","English",337,53790.3475919286,69783,910.972594023073,177.8,95.9361762834301
+200402,46,"Female","Married","African American","Non-Hispanic or Latino","English",8,2.986,15688.2483333333,0.178055556,162.56,86.9082
+200416,57,"Female","Married","Asian","Non-Hispanic or Latino","English",48,34655.688,51652,684.122747960547,161.371745714286,60.5999
+200638,26,"Male","Unmarried","Asian","Non-Hispanic or Latino","English",0,30749.5069014859,51302,550.7727778,176.965463558498,77.7457
+200956,60,"Female","Married","Caucasian","Non-Hispanic or Latino","English",102,8180.39004666666,1322,18.79888889,164.104783782751,98.4295
+201208,35,"Female","Unmarried","Other","Unknown","English",87,36376.309,56009.56,676.945178014266,164.465,77.1677947083499
+201911,26,"Female","Unmarried","Caucasian","Hispanic or Latino","English",67,11081.6543342209,12836,203.0197222,153.67,69.4699424168
+202281,39,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",16,27273.157,47036,636.139743047,162.56,72.1325730779118
+202938,47,"Male","Married","African American","Non-Hispanic or Latino","English",121,77366.055,65267.9766666667,709.6780556,172.72,95.0876399425
+203210,35,"Female","Unmarried","African American","Non-Hispanic or Latino","English",107,72542.875,85893,1234.486944,168.275,127.006
+203226,51,"Male","Married","Caucasian","Non-Hispanic or Latino","English",0,39639.165,62828.4685714286,735.773942082158,179.07,89.0625941880952
+203310,50,"Male","Unknown","Caucasian","Non-Hispanic or Latino","English",137,53263.9501012339,66880,1030.424444,180.618734004934,97.51945
+203486,71,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",19,36533.013325,51683.6926984127,548.5688889,190.5,110.495
+203738,59,"Female","Married","Caucasian","Non-Hispanic or Latino","English",100,52770.7551519943,92510.2786580952,1097.217778,158.999,54.1135
+203759,29,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",0,22296.7410632778,44336.03761,530.430293335094,154,73.6685326261526
+204569,49,"Male","Married","Asian","Non-Hispanic or Latino","English",377,76347.1377379091,141601.677242936,1180.765556,177.8,86.7268
+204725,27,"Male","Unmarried","African American","Non-Hispanic or Latino","English",58,4629.098,6588,148.6355283192,175.26,94.7097035556001
+205763,55,"Female","Married","Caucasian","Non-Hispanic or Latino","English",0,35342.5773789683,62378.675,634.969456648067,164.465,79.0157
+206153,42,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",121,64813.326,84806.3879978946,783.8583333,158.75,88.7121456257501
+206318,64,"Female","Married","Caucasian","Non-Hispanic or Latino","English",92,35221.7322640861,62081,828.107105001958,162.56,77.0822639830947
+206742,68,"Male","Married","Caucasian","Non-Hispanic or Latino","English",83,22834.4336516667,34707,402.8191667,177.099,93.7510030390573
+206766,51,"Female","Married","Other","Non-Hispanic or Latino","English",162,4097.538,26051.1240791039,476.577273628734,167.64,84.3009730250001
+207120,42,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",145,72683.383,88729.3976666667,1122.413611,160.02,91.3081
+207405,34,"Male","Unmarried","African American","Non-Hispanic or Latino","English",70,6952.74,9422,135.089456483047,179.07,98.4295
+207513,46,"Female","Unknown","African American","Non-Hispanic or Latino","English",0,39600.151,52070,695.6552778,182.88,93.3039
+208372,41,"Male","Unknown","Other","Non-Hispanic or Latino","English",56,22220.382,41595.2935952478,497.9272222,172.642954811829,78.0632
+208611,43,"Female","Married","Asian","Non-Hispanic or Latino","English",60,33910.1928943576,61814,739.294271666754,160.02,73.3912
+208710,42,"Female","Married","Other","Hispanic or Latino","English",92,13388.314,30275,346.8419444,162.56,67.2072272831333
+209032,44,"Male","Married","Caucasian","Hispanic or Latino","English",0,32298.6443948815,48241,598.460809332429,175.26,83.8607510489657
+209242,63,"Male","Married","Caucasian","Non-Hispanic or Latino","English",261,32657.642,46657.0735734549,535.1225,176.826329785781,85.9924230380953
+209996,66,"Female","Unknown","African American","Non-Hispanic or Latino","English",0,38970.13,157134,806.5730556,170.725975714286,72.8015
+210401,42,"Female","Married","Caucasian","Non-Hispanic or Latino","English",70,52337.2557677405,91356.3044664444,935.1694444,168.6719558155,90.2035179142857
+210602,42,"Female","Married","Caucasian","Non-Hispanic or Latino","English",1,50504.9569181157,108538.915166667,900.3380556,168.91,83.3793119839224
+210684,37,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",14,22843.057,48209,605.8427778,162.56,58.0598
+210892,31,"Female","Married","Asian","Non-Hispanic or Latino","English",98,17978.503,37133,400.839324750259,162.865624714,80.06655
+211498,47,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",61,50445.956773,133285,809.59576124275,176.53,85.5583920640715
+212194,54,"Female","Married","Caucasian","Non-Hispanic or Latino","English",46,45090.6528343069,107094,884.615328306917,151.633,75.4125511865412
+212420,19,"Male","Unmarried","Other","Non-Hispanic or Latino","English",74,19754.9863689771,31155.9143345363,272.1463889,176.302262130904,81.4779684163333
+212768,40,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",0,28470.57485875,54778,747.8775,166.37,75.3852676302905
+213159,46,"Female","Married","Caucasian","Non-Hispanic or Latino","English",139,14502.865678,29235,294.852306108402,162.443115547619,71.2825378202636
+213623,34,"Female","Unmarried","African American","Non-Hispanic or Latino","English",329,27281.937,60206,757.8116667,158.75,69.2862
+213849,47,"Female","Married","Caucasian","Non-Hispanic or Latino","English",0,21253.18323,29345,390.11381890583,165.735,87.9275755773504
+214050,66,"Female","Married","Caucasian","Non-Hispanic or Latino","English",143,55916.1902742588,78780,969.7394444,169.024469502559,84.9084240236908
+215638,29,"Male","Unmarried","African American","Non-Hispanic or Latino","English",0,5556.066,25066.0439051799,133.4086111,178.1502025,87.6505665568182
+215655,68,"Male","Married","African American","Non-Hispanic or Latino","English",158,21865.1890793092,12521.178,77.24472222,176.53,99.6995
+216024,35,"Male","Married","Caucasian","Non-Hispanic or Latino","English",177,49180.6990660521,76810,928.2877778,186.5795,79.3063
+216223,35,"Male","Married","Other","Hispanic or Latino","English",1,14793.002,26780.0825,348.215583861524,173.065375644508,79.7037868690476
+216890,45,"Female","Married","Asian","Non-Hispanic or Latino","English",8,24410.506,64512,853.6525,157.48,51.2559
+217262,56,"Male","Unknown","Caucasian","Non-Hispanic or Latino","English",144,51026.079,81847.0489919444,999.9658333,159.385,82.80325
+217934,45,"Male","Married","Caucasian","Non-Hispanic or Latino","English",21,19429.076,38160,575.6711111,173.512925111623,87.3683201814299
+218008,50,"Female","Married","Asian","Non-Hispanic or Latino","English",237,6989.253,13773,168.287852281081,172.72,60.2597
+218744,28,"Male","Unmarried","African American","Non-Hispanic or Latino","English",70,31704.544,48741.9113722668,443.8386111,177.109009417819,83.8402235
+218830,39,"Female","Unknown","Caucasian","Non-Hispanic or Latino","English",370,19277.078913742,16,0.121388889,168.91,90.0083040906667
+219227,46,"Male","Married","African American","Non-Hispanic or Latino","English",0,59973.204,55129,704.145,179.212062261905,129.591
+220061,74,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",110,45491.4105340953,100819,863.363957461437,162.57025,92.8301883533334
+220385,32,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",50,17585.843,44203,572.3086111,175.514,92.007078592775
+220800,45,"Female","Married","Asian","Non-Hispanic or Latino","English",73,14108.292,21760,245.9741667,161.371993484848,77.9370958624982
+220948,39,"Female","Unknown","African American","Non-Hispanic or Latino","English",113,51550.017855,64102,892.9483333,159.385,70.1873250640602
+220999,43,"Female","Married","African American","Non-Hispanic or Latino","English",0,4177.729,10519,222.096735683059,160.165806666667,56.3815
+221016,67,"Male","Married","Caucasian","Non-Hispanic or Latino","English",55,33024.490175,43723.446,517.1144444,176.015977290375,98.2027
+221245,54,"Female","Married","Other","Non-Hispanic or Latino","English",0,34926.394,61992,741.0427778,167.60848702381,69.48645
+221959,45,"Female","Married","Asian","Non-Hispanic or Latino","English",43,40267.468,45233,565.7030556,172.085,83.2497076916568
+222382,31,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",45,9979.336,28884,278.379821998467,167.097016737487,70.9421401836642
+222478,50,"Male","Unmarried","Asian","Non-Hispanic or Latino","English",57,23399.3554199708,41944,486.1261111,170.815,54.7032
+222566,43,"Female","Unknown","African American","Non-Hispanic or Latino","English",0,28150.764,52179.6101666667,651.7791667,164.613605688406,81.2538920380689
+222705,43,"Female","Unmarried","African American","Non-Hispanic or Latino","English",139,23192.975,42167,522.738941710582,157.798,80.2964052959421
+223452,26,"Male","Unmarried","Asian","Non-Hispanic or Latino","English",0,94056.273,164899.571666667,1102.585278,181.61,86.6361
+223696,53,"Female","Married","Caucasian","Non-Hispanic or Latino","English",107,62904.574,103539,968.057932150371,171.7525,88.3186565038215
+224355,40,"Male","Married","Caucasian","Non-Hispanic or Latino","English",0,60624.5381832192,102503.995333333,806.36741006848,188.595,100.244
+224447,46,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",0,28212.4,48278.0533333333,491.742028541534,161.925,71.9874958321095
+224689,54,"Female","Married","African American","Non-Hispanic or Latino","English",0,40927.3843075,71914,897.3416667,161.221366276107,63.2307
+224901,59,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",50,9736.82240083333,15639.6395426984,0.119722222,162.50539,69.9447067386552
+225330,48,"Female","Married","Other","Non-Hispanic or Latino","English",0,4.68,5641.11333333333,140.23686414529,154.94,89.67425
+225530,45,"Female","Married","Asian","Non-Hispanic or Latino","English",60,38360.78,96433,1017.859167,160.383750343074,70.6521637734792
+225604,51,"Female","Married","Other","Non-Hispanic or Latino","English",53,16185.827,37856.7036666667,467.5125,161.651266762626,74.1169
+225661,53,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",236,25343.4152133333,63196.9816164745,602.936357376993,159.235189774285,50.0312
+225792,85,"Female","Married","African American","Non-Hispanic or Latino","English",0,15879.3190930667,31009.5986666667,225.1488889,160.752282717286,76.217647938383
+225989,54,"Male","Married","Caucasian","Non-Hispanic or Latino","English",156,17293.644998901,10376,344.26228889434,198.12,95.1364500952714
+226253,29,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",86,38439.02,64305.4883029971,548.7616667,185.42,86.5
+226957,19,"Male","Unmarried","Asian","Non-Hispanic or Latino","English",156,64736.7653383333,81828.1959538095,940.5302778,174.915595,80.3765
+227096,40,"Female","Unmarried","Other","Non-Hispanic or Latino","English",3,63282.777,88337,862.0777778,165.701470118667,91.0359
+227169,33,"Female","Unmarried","Caucasian","Hispanic or Latino","English",238,7593.19561500001,11749,47.99972222,162.56,62.2328
+227249,40,"Female","Married","Caucasian","Non-Hispanic or Latino","English",0,40809.909,65537,794.7180556,173.99,94.1203
+227956,34,"Male","Unmarried","Asian","Non-Hispanic or Latino","English",6,76596.278,93776,921.72719362542,174.3,80.3311
+228066,54,"Female","Married","African American","Non-Hispanic or Latino","English",0,37162.838,77705,860.2488889,171.128770833333,70.3975
+228145,35,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",0,2118.56,22093.545,266.979045549436,163.83,107.864
+229246,62,"Female","Married","Caucasian","Non-Hispanic or Latino","English",72,14209.673,39806.4183333333,466.2444444,157.48,73.1193744600762
+229302,50,"Male","Married","Caucasian","Non-Hispanic or Latino","English",0,25375.729,46504,602.902921532056,177.165,85.0879135552454
+229594,28,"Male","Unmarried","African American","Non-Hispanic or Latino","English",59,29651.921,56382,669.1488889,173.222527477623,78.6116446
+229642,72,"Male","Married","Caucasian","Non-Hispanic or Latino","English",292,37660.4948663296,49627,599.3597222,176.53,91.3542825789683
+229909,49,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",72,37738.016,60507.1008831746,768.156992315969,165.59687874301,81.9594803118479
+230217,55,"Male","Married","Caucasian","Unknown","English",183,28680.56,58497.3089793038,740.978175456126,167.64,68.1749
+230976,53,"Male","Married","Caucasian","Non-Hispanic or Latino","English",128,17192.9650964602,29843.9566180164,280.1841667,177.848451058823,102.24
+231076,30,"Female","Unknown","Caucasian","Non-Hispanic or Latino","English",86,31270.362,56183,768.0925,167.64,78.8343
+231517,58,"Female","Married","Caucasian","Non-Hispanic or Latino","English",217,23026.7,38362.9931012332,519.5689764034,161.609021604295,85.174311078143
+231731,54,"Female","Married","Caucasian","Non-Hispanic or Latino","English",118,8660.75907634921,23,141.929019356429,161.64585280641,56.0186
+232023,46,"Female","Married","Caucasian","Hispanic or Latino","English",126,40172.2853987064,79770.845,781.6108333,155.418,73.1495423329013
+232101,45,"Male","Unknown","Caucasian","Non-Hispanic or Latino","English",202,44471.3183047282,66902,843.210227442333,175.4786,102.5376833
+232583,45,"Female","Married","Caucasian","Non-Hispanic or Latino","English",87,25391.5822431696,34691.4748848809,340.8586111,172.72,96.3883
+232628,55,"Female","Unmarried","African American","Non-Hispanic or Latino","English",0,6920.611,15426.2641666667,123.6472222,162.56,78.5537106833
+232655,34,"Male","Unmarried","Other","Non-Hispanic or Latino","English",180,13059.3120366667,29055,327.981023300831,170.97150379965,82.3286389395034
+233348,25,"Male","Unmarried","African American","Non-Hispanic or Latino","English",3,50514.231,49605,664.9461111,192.405,107.477662470598
+233719,34,"Female","Married","Caucasian","Non-Hispanic or Latino","English",94,64130.225,107205.555238095,1095.963056,169.217380505273,84.3176547626447
+233730,53,"Male","Married","Caucasian","Non-Hispanic or Latino","English",101,69215.294,98286,926.442754113524,174.621258452714,93.6332092555284
+233757,47,"Male","Married","Caucasian","Non-Hispanic or Latino","English",96,21440.9672176462,35652.083970812,293.699585426503,166.37,84.4464026027
+234560,60,"Male","Married","Caucasian","Non-Hispanic or Latino","English",0,50001.821,71433.0686666667,778.687406351415,181.61,95.2011050873016
+234715,83,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",0,37451.471,102613,794,176.455998662558,84.20935
+234842,50,"Female","Married","Other","Hispanic or Latino","English",76,23292.5655606573,49867.8886666667,550.997569712301,157.48,66.35187692
+234942,51,"Female","Married","Caucasian","Non-Hispanic or Latino","English",397,45553.174627006,70890,929.1061111,166.37,69.5961
+234954,35,"Male","Married","Caucasian","Non-Hispanic or Latino","English",251,54418.5073982119,106321,1024.91420788395,182.88,94.8997200166667
+235084,21,"Male","Unmarried","African American","Non-Hispanic or Latino","English",23,43917.76426,55488,791.995154410951,178.103912955563,79.424
+235613,57,"Female","Married","Caucasian","Non-Hispanic or Latino","English",23,38565.6601944643,115532.970648414,1054.964722,154.94,79.2996026147999
+235755,34,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",0,31883.525,50668,614.339123815279,178.973053958333,93.0771
+236059,40,"Female","Unmarried","Other","Hispanic or Latino","English",137,41949.608,64804.9366666667,803.86,165.217068471667,80.8069082944377
+236759,39,"Female","Married","Other","Non-Hispanic or Latino","English",0,43442.2484166346,64508.7152813528,780.0622222,165.1,82.2818496668999
+237365,55,"Female","Married","Caucasian","Non-Hispanic or Latino","English",103,24714.1316710598,44367.146,545.534312810327,166.934643732224,93.3039
+237831,27,"Male","Unmarried","African American","Non-Hispanic or Latino","English",104,78197.624,106732.640102222,1123.846111,179.07,101.054030261948
+238544,58,"Male","Married","Caucasian","Non-Hispanic or Latino","English",108,49143.223,73625.1916214881,868.585,175.175681692388,98.7016
+238655,44,"Female","Unmarried","Other","Non-Hispanic or Latino","English",65,8308.761,19606,168.4861111,165.729930000667,77.0959405755294
+238693,46,"Male","Married","Caucasian","Non-Hispanic or Latino","English",134,56660.587,72382.811,799.7525,179.951268245921,118.977
+238901,49,"Male","Unmarried","Other","Hispanic or Latino","English",4,10829.118,15616,210.067697735016,172.275,101.151
+238982,62,"Male","Married","Caucasian","Non-Hispanic or Latino","English",0,46268.3299020294,104869.65636381,914.182436207189,169.545,66.2611125
+239629,26,"Male","Unmarried","Other","Hispanic or Latino","Not English",0,55198.748,80224,902.184517989144,179.07,99.1099
+239851,56,"Male","Married","Caucasian","Non-Hispanic or Latino","English",114,13985.08,41683.15525,451.673643525167,175.26,94.3471
+240148,53,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",106,68829.509,106749.996317381,1012.962778,160.02,80.8700688948334
+240701,19,"Male","Unmarried","Other","Non-Hispanic or Latino","English",83,66023.843,66142.1444018254,711.0691667,177.513080458083,94.3925
+241091,48,"Female","Married","Caucasian","Non-Hispanic or Latino","English",81,40284.803,72854,801.717638884475,163.431015670685,67.5852
+241593,70,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",255,49974.758,61912,860.897673661946,180.34,120.835
+241601,45,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",81,63585.544,81428,984.001984606637,180.086,89.6281856734402
+241825,42,"Female","Married","African American","Non-Hispanic or Latino","English",0,63583.6884768964,111192.81,950.737262289399,169.352576418651,73.6050082251315
+242910,20,"Male","Unmarried","Caucasian","Hispanic or Latino","English",146,44679.622,58900.8976220635,675.653540037857,176.187181393123,99.207647675
+243133,45,"Male","Married","Caucasian","Non-Hispanic or Latino","English",84,56556.139,74173.98775,1075.603611,175.26,86.0464
+243606,43,"Male","Married","Caucasian","Non-Hispanic or Latino","English",4,74067.35,57588,739.2363889,177.374541850025,90.9765150312911
+244898,59,"Female","Married","African American","Non-Hispanic or Latino","English",36,22016.419,44573,631.4175,162.56,73.7703403999666
+245030,42,"Female","Married","African American","Non-Hispanic or Latino","English",136,37495.4943534146,50552.3822149123,647.672234496455,170.18,104.87
+245085,54,"Female","Married","Caucasian","Non-Hispanic or Latino","English",0,33414.9293110508,52817.7305555556,661.898799790638,162.410522158463,83.5675
+245115,50,"Male","Married","Other","Non-Hispanic or Latino","English",7,51177.046,86979,1008.766667,162.56,76.1590794282327
+245249,62,"Female","Unmarried","African American","Non-Hispanic or Latino","English",145,22543.941,32489,385.8041667,163.020285338713,72.8993
+246000,55,"Male","Married","Caucasian","Non-Hispanic or Latino","English",69,19550.3584107813,34267.992939254,361.902641681614,175.153068753447,86.0001826963236
+246030,24,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",48,41585.40887,75209.5072222222,882.255,162.0814689811,61.0081
+246348,52,"Male","Married","Caucasian","Non-Hispanic or Latino","English",91,16007.298,22908.09,273.150855866788,179.747000419868,121.336
+246658,48,"Female","Married","Other","Hispanic or Latino","English",125,51950.1207874863,86171.67,927.949717297175,169.651758981742,108.408
+247909,48,"Female","Married","Caucasian","Non-Hispanic or Latino","English",0,67772.895173,111767,966.0180556,167.005,82.9885331009589
+248363,31,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",37,12594.0310791667,33354.4051479484,324.267063075756,167.64,75.1148
+248451,63,"Female","Married","African American","Non-Hispanic or Latino","English",7,35479.687,57244.0358333333,636.5611111,158.3,100.697
+248462,75,"Female","Unknown","African American","Non-Hispanic or Latino","English",384,16922.7824435,20469,211.6686111,160.946328333333,77.5000016714496
+248729,67,"Female","Married","Caucasian","Non-Hispanic or Latino","English",117,30218.7397541017,66645,644.224925133,163.195,74.5705
+248878,43,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",362,26276.3509967837,44229.705,587.914861086343,165.1,77.156
+248977,62,"Female","Married","Asian","Non-Hispanic or Latino","English",97,25583.83,61167.6248000102,749.0258333,163.581550298381,71.5600171602345
+249120,59,"Male","Married","African American","Non-Hispanic or Latino","English",344,75560.2011960722,155179.627489107,1246.666111,185.674,82.6445
+249395,58,"Female","Married","Caucasian","Non-Hispanic or Latino","English",59,61624.4787591962,375903,1160.803889,165.364920833333,72.9567954592309
+249875,50,"Female","Married","African American","Non-Hispanic or Latino","English",0,16153.6203397317,29204,350.8338889,165.1,84.5747659046763
+249911,56,"Male","Married","African American","Non-Hispanic or Latino","English",260,117033.287,151916.356666667,1254.644444,178.709236766014,103.4744510832
+249917,55,"Female","Married","Caucasian","Non-Hispanic or Latino","English",108,25408.499,55377,679.56486037675,164.7825,75.73476667
+250292,79,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",0,25308.073,47513.84,531.8041667,172.08,104.6923636
+251005,44,"Female","Married","Other","Hispanic or Latino","English",181,19961.6993561366,41942.31,472.91446088525,151.765,49.759
+251023,47,"Female","Married","Asian","Non-Hispanic or Latino","English",14,44539.50678,99414,811.406008266916,162.7716667,73.7665959446584
+251582,75,"Male","Married","Caucasian","Non-Hispanic or Latino","English",210,45932.169,85295,635.8619444,174.93448803613,103.419
+251617,20,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",55,40171.601,57842.2556012933,691.141025633682,167.720839970633,72.0304
+251830,22,"Female","Unmarried","Other","Hispanic or Latino","English",0,22523.211,42675,204.8338889,162.56,61.2349
+253328,25,"Female","Married","Asian","Non-Hispanic or Latino","English",12,15016.162,31460,278.8494444,161.29,84.9124
+253350,26,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",345,44797.951,94661.9335923796,916.7113226942,165.879566683044,56.8804
+253390,20,"Male","Unmarried","African American","Non-Hispanic or Latino","English",65,29532.301,49806,535.832935780823,173.99,93.8375998583314
+253513,38,"Male","Married","Other","Non-Hispanic or Latino","English",139,3456.307,20682.6353508333,100.563476848577,168.91,94.5780673194108
+253641,67,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",293,37790.441399,57900,759.3925,162.28993314007,79.8102705025756
+254003,44,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",126,78297.508,133309,876.6780556,180.111075506806,102.24
+254030,48,"Female","Married","Caucasian","Non-Hispanic or Latino","English",222,60425.5513633334,82461,1058.625556,165.766760736333,87.3165
+254115,25,"Female","Unmarried","Other","Non-Hispanic or Latino","English",191,17717.2140323637,33379.9772969481,270.7113889,153.67,77.0813990459969
+254613,33,"Male","Unmarried","African American","Non-Hispanic or Latino","English",121,65470.051,81764,1078.835278,177.680292495102,95.0428724330001
+255725,22,"Male","Unmarried","Other","Hispanic or Latino","English",58,38168.494,54829,626.1044444,178.342271290392,94.5286
+256782,46,"Female","Married","Caucasian","Non-Hispanic or Latino","English",71,4239.81,8273,74.5525,162.422850735752,89.9528623181537
+257047,27,"Male","Unmarried","Other","Non-Hispanic or Latino","English",39,30092.807,54958.8093333333,657.153565278,167.005,57.2887
+257403,51,"Male","Married","Caucasian","Non-Hispanic or Latino","English",0,99614.878,117876.079142857,1040.2220843317,173.99,87.451027971768
+257552,54,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",29,2.996,19,0.166111111,163.102838839377,101.46787963877
+257641,51,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",0,8316.45295632143,17824.8625404735,166.3847222,161.29,92.941
+257777,63,"Male","Married","Asian","Non-Hispanic or Latino","English",102,49190.9006243334,81712.8948409091,957.818909402608,170.815,73.0964
+257927,30,"Male","Unmarried","African American","Non-Hispanic or Latino","English",0,26881.347,37871,528.3563889,179.669251785714,101.340516032163
+258381,19,"Female","Unknown","African American","Non-Hispanic or Latino","English",15,53215.573,71957.611936662,840.490428552362,172.72,106.639
+258539,70,"Male","Married","Caucasian","Non-Hispanic or Latino","English",254,46920.3273228737,88110.7376664815,895.6591667,185.42,89.1224101109766
+258863,56,"Female","Married","African American","Non-Hispanic or Latino","English",97,6655.652,11463.89,134.4408333,170.18,86.5
+259975,50,"Female","Married","Other","Non-Hispanic or Latino","English",119,38335.2013419631,71970,819.991739064454,170.18,83.6877
+260062,47,"Male","Married","Caucasian","Non-Hispanic or Latino","English",247,77018.589,125138.994166667,1035.789722,182.245,120.474
+260102,35,"Male","Unmarried","African American","Non-Hispanic or Latino","English",35,5844.895,10508,185.086196702283,173.99,66.1337
+260304,46,"Female","Married","Other","Hispanic or Latino","English",132,3.626,18,0.156111111,163.782736802099,76.8768657683061
+260330,33,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",110,56702.133,73068,934.0252778,171.10579927469,109.7336667
+260392,69,"Female","Married","Caucasian","Non-Hispanic or Latino","English",104,5680.727,7878,109.6469444,164.610237035714,68.4924
+261343,50,"Female","Married","Asian","Non-Hispanic or Latino","English",123,15062.965,35014,442.213962070147,159.385,58.7402
+261501,56,"Female","Married","Caucasian","Non-Hispanic or Latino","English",131,30093.436,48288,629.5555556,169.982290758212,92.306
+261737,33,"Male","Unmarried","Asian","Non-Hispanic or Latino","English",41,27206.2711733333,32210.7275810225,0.285,162.56,79.6961
+261963,34,"Male","Married","Caucasian","Unknown","English",124,20620.2539351968,42656.6467792698,376.7755556,170.274306735426,72.5747
+262083,40,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",257,23640.219,57742,788.2411111,156.21,54.7486
+262167,42,"Female","Married","African American","Non-Hispanic or Latino","English",132,64376.106,116323.56,1010.36844759143,165.774205671137,63.639
+262737,48,"Female","Married","Other","Non-Hispanic or Latino","English",169,61189.0167699517,128285.442,1138.980833,162.946098333333,79.7182266039101
+262896,29,"Female","Unmarried","African American","Non-Hispanic or Latino","English",68,30360.106,54745.62,632.491328913917,158.75,80.6191540136124
+263104,50,"Male","Married","Asian","Non-Hispanic or Latino","English",211,65424.301,162738,1037.478056,190.5,90.8567443759414
+263489,35,"Female","Unmarried","Other","Non-Hispanic or Latino","English",13,39363.885,64681,821.2761111,163.322,69.4449
+263491,43,"Female","Married","Caucasian","Non-Hispanic or Latino","English",0,44179.142,98216,909.6397222,155.575,60.5092
+263582,42,"Female","Married","Other","Non-Hispanic or Latino","English",0,39612.9115800131,66188,979.1391667,151.765,62.3689
+263728,78,"Male","Married","Caucasian","Non-Hispanic or Latino","English",10,27880.604,80495,715.788973111769,163.83,70.5336
+264526,47,"Female","Married","African American","Non-Hispanic or Latino","English",123,41244.3788192632,69458.2355311782,858.4472222,167.005,98.71760625
+264528,19,"Female","Unmarried","Other","Hispanic or Latino","English",100,7594.973,21272.5715398551,192.6233333,158.115,67.6306
+264731,45,"Female","Married","Other","Non-Hispanic or Latino","English",326,44997.877,110203.393581627,1197.8825,165.1,68.3563
+265131,57,"Female","Married","Caucasian","Non-Hispanic or Latino","English",161,39194.026,66170,800.937318342484,164.001699603834,80.5378011609912
+265845,50,"Male","Married","Other","Non-Hispanic or Latino","English",0,36888.9128758683,58749,735.6697222,168.275,67.2223
+265919,47,"Female","Unmarried","African American","Non-Hispanic or Latino","English",0,24580.695,56662,546.568847531055,161.720728010875,77.1106
+265994,40,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",93,45201.244,78783,1031.417222,156.845,78.3353
+266023,65,"Male","Married","Caucasian","Non-Hispanic or Latino","English",126,25765.222,43967,559.592245712316,183.515,98.5862372671273
+266068,59,"Male","Married","African American","Non-Hispanic or Latino","English",85,35632.41,53299,712.197624042691,173.99,108.545
+266248,24,"Male","Married","Other","Non-Hispanic or Latino","English",67,37434.5546825,52942.0166666667,670.445305693756,187.96,91.7344521667333
+267531,56,"Male","Married","Asian","Non-Hispanic or Latino","English",86,32287.293,55613,706.292636410058,173.539440109496,77.7003
+268516,39,"Female","Unmarried","Other","Non-Hispanic or Latino","English",38,24829.528,48067.3978180159,585.0422222,162.56,77.4975397374064
+268529,61,"Female","Married","Caucasian","Non-Hispanic or Latino","English",148,36492.031,57452.2311783046,555.057083342288,162.56,81.0569
+268538,67,"Female","Married","Caucasian","Non-Hispanic or Latino","English",101,5.64,21,220.519091648152,166.37,69.1123
+268783,38,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",0,19597.586,37376.2174448526,349.3461111,170.818320571047,74.4344
+268803,41,"Male","Married","Caucasian","Non-Hispanic or Latino","English",73,79237.7906144722,119826,1014.26997815954,182.88,99.7451
+269564,51,"Male","Married","Asian","Non-Hispanic or Latino","English",41,17086.8330925136,22320,205.689761696332,172.72,112.2186667
+269911,58,"Female","Married","Caucasian","Unknown","English",190,38660.7935395211,77334.0004363877,835.9752778,159.5316319,73.3005
+270161,23,"Female","Unmarried","Other","Non-Hispanic or Latino","English",0,16287.1528238095,23029,390.952056853072,172.72,72.7532521872886
+271315,45,"Female","Married","Caucasian","Non-Hispanic or Latino","English",0,34387.5606096923,59811.6386479692,681.957437889076,168.91,75.5684
+271639,48,"Female","Married","African American","Non-Hispanic or Latino","English",225,36583.417,54183,615.2263889,166.911241328144,123.6265
+272981,42,"Female","Married","Caucasian","Non-Hispanic or Latino","English",101,53006.3418203787,96163.4481765995,1077.215,161.966067466483,70.4037248061403
+273005,49,"Male","Married","Caucasian","Non-Hispanic or Latino","English",80,82959.713,90169.55,836.079150247247,176.53,127.233
+273068,64,"Male","Married","Caucasian","Non-Hispanic or Latino","English",92,39280.401243289,61474.3854587675,644.233508364945,170.688,89.6195731220754
+273281,22,"Female","Unmarried","African American","Non-Hispanic or Latino","English",3,10373.2574775,13523,199.0602778,166.509824028894,83.6424
+273389,38,"Male","Unmarried","Asian","Non-Hispanic or Latino","English",153,45082.355,111186,843.3591667,174.2510225,88.4051
+273717,22,"Female","Unmarried","Other","Hispanic or Latino","English",4,43436.143774144,72567,744.994598638684,160.02,87.634
+273863,43,"Male","Married","Asian","Non-Hispanic or Latino","English",55,17607.924,42399,510.3225,180.34,53.0249
+273883,42,"Female","Unknown","African American","Unknown","English",226,19403.0533910705,43892.3960655159,381.91,166.388200369275,84.0191085430414
+274153,40,"Female","Married","Caucasian","Non-Hispanic or Latino","English",0,60992.119863024,97212.20875,1075.1175,171.958,65.6348
+274173,67,"Female","Married","Asian","Non-Hispanic or Latino","Not English",137,6015.1143845,11275.1408130707,21.72555556,165.870537033672,76.2410655663165
+274764,37,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",96,1856.915,4421,46.71527778,161.29,58.6948
+274909,49,"Male","Married","Caucasian","Non-Hispanic or Latino","English",71,76798.412,76823,821.572388209585,184.15,150.411
+275421,52,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",8,54577.0550480929,69015,871.4991667,181.61,81.0569
+276253,23,"Female","Unmarried","African American","Non-Hispanic or Latino","English",0,15094.13,19593.8266666667,148.5044444,165.1,84.8924123155213
+276651,66,"Female","Married","Caucasian","Non-Hispanic or Latino","English",112,32486.7615033333,57091.6926190476,699.926995104843,165.1,80.967642626869
+278150,24,"Female","Unmarried","Other","Hispanic or Latino","English",108,16763.9623995816,29059,395.7652778,162.56,68.447
+278196,48,"Female","Married","Asian","Non-Hispanic or Latino","English",61,27199.178165,57999,458.6980556,149.86,61.52589251945
+278392,49,"Male","Married","Caucasian","Non-Hispanic or Latino","English",44,33267.3950336667,52534,659.76,182.663679681659,94.2564
+278770,55,"Female","Married","Caucasian","Non-Hispanic or Latino","English",120,12114.890486619,10507,126.3097222,165.683960784465,87.8218647303569
+279143,41,"Male","Married","Caucasian","Non-Hispanic or Latino","English",86,97761.754,93645,1033.306389,180.983396964,100.289
+279647,26,"Male","Unmarried","Other","Non-Hispanic or Latino","English",0,10674.219,20692,280.279788471308,180.556369757033,93.0317
+279805,47,"Female","Married","Asian","Non-Hispanic or Latino","Not English",187,15521.493,32239,341.4326500049,161.29,76.022
+280278,46,"Male","Married","Caucasian","Non-Hispanic or Latino","English",87,21499.0526453073,23396,206.6019444,178.435,134.704
+280989,37,"Male","Unmarried","African American","Non-Hispanic or Latino","English",0,2149.939,18039.2668487301,21.47972222,176.535748333333,95.1108255000001
+281133,48,"Female","Married","Caucasian","Non-Hispanic or Latino","English",58,34655.3677256142,58812.885,786.549703197011,167.64,80.9026370560607
+281211,43,"Female","Unmarried","African American","Non-Hispanic or Latino","English",95,23557.867,49416,674.435,168.715200354551,95.6295336258962
+281264,45,"Female","Married","Asian","Non-Hispanic or Latino","English",32,3522.2696065,613,5.1275,162.56,90.6277
+281809,45,"Female","Married","African American","Non-Hispanic or Latino","English",150,4631.5197065,19,0.1525,162.901474746861,47.0375
+282564,21,"Female","Unmarried","Other","Hispanic or Latino","English",94,15000.408,31063,313.9163889,161.872082241517,70.715
+282589,40,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",107,43302.4844940168,72334,802.480554529469,167.91854754757,79.6025463454254
+282835,58,"Male","Married","Caucasian","Non-Hispanic or Latino","English",402,69980.971,101379.951666667,817.128381112669,184.15,95.3863165457271
+283197,68,"Female","Married","African American","Non-Hispanic or Latino","English",142,7153.326,11888.8396666667,110.9141667,167.64,98.3387
+283263,40,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",8,3570.826,5433,82.86444444,179.705,96.628690469555
+283549,46,"Male","Married","Caucasian","Unknown","English",0,48171.152,72506.1866666667,848.198746131014,174.408069305556,84.4283894780303
+283675,48,"Male","Married","Caucasian","Non-Hispanic or Latino","English",0,53824.6049983333,82456.595,774.717748217238,187.96,98.0647268559251
+284125,52,"Male","Married","Caucasian","Non-Hispanic or Latino","English",9,53777.2672866667,66933,898.2372222,180.34,99.5181
+284560,43,"Female","Married","Caucasian","Non-Hispanic or Latino","English",136,101654.771,148257,928.2752778,161.29,78.5168
+284710,72,"Female","Unmarried","Caucasian","Hispanic or Latino","English",331,24711.266,56728,600.163190294627,152.2415,58.04445
+285408,31,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",88,28354.216,38264,398.7313889,174.906906399048,94.1203
+285761,23,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",2,102016.232,130517.626666667,1122.976944,161.709498408245,55.4743
+285908,58,"Male","Married","Caucasian","Non-Hispanic or Latino","English",201,50048.268,66295,758.383285799611,187.325,96.8419
+285963,50,"Male","Married","Other","Non-Hispanic or Latino","English",192,33823.6896625732,48354,617.800497264423,180.34,97.3940274428349
+286509,52,"Female","Married","Caucasian","Non-Hispanic or Latino","English",73,32176.08989,66170,623.3077778,163.640956665189,70.3521
+286705,33,"Male","Married","Caucasian","Unknown","English",14,53448.936413042,74398,937.0161111,180.34,89.7692904172527
+286838,46,"Female","Married","Asian","Non-Hispanic or Latino","English",3,17046.2414194444,37107.8361968849,371.8280556,172.72,71.2139
+287191,48,"Female","Unknown","Caucasian","Non-Hispanic or Latino","English",89,11079.223,27799.0522328986,360.990839013079,157.8371866665,76.5623637518399
+288052,30,"Male","Unmarried","Asian","Non-Hispanic or Latino","English",51,24160.794,64836.2801880952,525.8333092516,175.26,54.8846
+288139,53,"Female","Married","Caucasian","Non-Hispanic or Latino","English",0,50440.887,84750.1783333333,910.207774966167,167.64,86.8339288355372
+288286,62,"Female","Married","Asian","Non-Hispanic or Latino","English",47,40576.553,82612,879.184284437431,162.56,75.9657774254049
+288556,33,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",37,30336.275,62083,695.16572768202,161.713825238095,60.3277
+289647,44,"Female","Married","Asian","Non-Hispanic or Latino","English",346,44396.2618934091,80106.7342985833,893.0277778,163.081817922542,73.0185482494144
+289927,42,"Female","Married","Asian","Non-Hispanic or Latino","English",81,14793.018,29334.8055942521,302.1758333,161.7972175,79.0677554210402
+290104,32,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",0,34591.3936775,46343.842,546.1755556,177.165,96.1161
+290152,24,"Male","Unmarried","African American","Non-Hispanic or Latino","English",62,46929.1257884763,58686,834.675,178.308,103.6
+290355,32,"Male","Married","Caucasian","Non-Hispanic or Latino","English",60,33854.943,86052.3966666667,1055.893056,172.352240703046,73.2001645210334
+290440,49,"Female","Married","Caucasian","Non-Hispanic or Latino","English",81,8774.807,12413,141.5783333,164.084,99.7449
+291060,68,"Male","Married","African American","Non-Hispanic or Latino","English",92,40185.5881527778,55960.83,646.091265306702,178.444929761905,105.2595556
+292641,38,"Male","Married","Caucasian","Non-Hispanic or Latino","English",53,71222.6580152241,169978,829.389696847501,172.717065902654,68.28825
+292745,55,"Male","Married","Caucasian","Non-Hispanic or Latino","English",40,35609.7080035826,70562,685.800655548067,171.022700141565,83.2465837848718
+293315,25,"Male","Unmarried","African American","Non-Hispanic or Latino","English",0,74265.6754473333,74367.069513373,866.886614610207,177.431306890914,134.445
+293620,23,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",105,6601.6299325,25715.5473795232,8.753888889,157.48,45.9035
+293821,42,"Male","Married","Caucasian","Non-Hispanic or Latino","English",59,52459.97,73754.5883333333,846.479943160936,174.563281503268,96.120877736894
+294037,47,"Female","Married","African American","Non-Hispanic or Latino","English",49,2882.348,3487,36.31333333,164.340037400794,131.6425
+294507,35,"Male","Unmarried","Other","Non-Hispanic or Latino","English",67,5124.042,6993,75.09111111,175.26,87.5433
+294521,38,"Male","Unmarried","Other","Hispanic or Latino","English",0,40699.684,80413,968.6152778,169.694340833333,69.7171
+295001,54,"Male","Unmarried","African American","Non-Hispanic or Latino","English",50,3617.07,12429.995,69.41472222,172.731796139377,89.787796472461
+295404,80,"Male","Married","Caucasian","Non-Hispanic or Latino","English",123,44808.0031534924,74101,824.9804694192,175.895,89.6408492615708
+295984,60,"Female","Married","Caucasian","Non-Hispanic or Latino","English",300,23001.438,58661.872,625.9997222,163.097,83.8349878443801
+296668,64,"Female","Married","Caucasian","Non-Hispanic or Latino","English",134,22429.8362372015,43642,496.9486111,167.64,86.9536
+296806,43,"Female","Married","Asian","Non-Hispanic or Latino","English",6,48630.2640320246,87816,1187.538056,160.02,68.8099
+297105,53,"Male","Married","Asian","Non-Hispanic or Latino","English",106,51467.833,89482,1117.216389,172.72,77.917610625
+297190,33,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",84,63305.7248366667,87721.092952381,1144.5575,174.625,93.0493334434089
+297443,34,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",1,35978.331,93397,909.398060634589,166.5735066419,58.5587
+297487,45,"Female","Married","Other","Hispanic or Latino","English",116,17935.976,48983,487.952360327143,162.519791567991,63.4122
+297505,29,"Female","Unknown","African American","Non-Hispanic or Latino","English",0,46840.9523356228,69288.3223697402,619.3747222,179.07,87.0897
+297885,53,"Female","Married","Asian","Non-Hispanic or Latino","English",82,53542.9926161529,99579,916.367894756767,160.655,74.4344
+298280,52,"Male","Married","Caucasian","Non-Hispanic or Latino","English",91,25495.7940729593,35876.0519047619,385.4775,172.04719250186,112.355
+298539,28,"Male","Unmarried","Caucasian","Hispanic or Latino","English",266,21484.3702485083,52453.695494329,364.4305556,171.0266667,82.23726667
+298586,54,"Male","Married","Caucasian","Non-Hispanic or Latino","English",123,10002.4760043333,3,261.664981944948,181.61,92.9053346036923
+298951,68,"Male","Married","Caucasian","Unknown","English",75,28987.206,56156.5292173932,624.173224252277,174.029645821452,80.5126
+299103,28,"Male","Unmarried","Asian","Non-Hispanic or Latino","English",34,57425.645,74240.3708580952,707.4408333,173.089307281882,64.1379
+299854,83,"Female","Unmarried","African American","Non-Hispanic or Latino","English",78,24034.4823490972,25907,374.804155104173,166.13987712278,79.508175
+300003,62,"Female","Married","African American","Non-Hispanic or Latino","English",68,9997.271,20163,221.1038889,165.735,80.8501721892002
+300843,64,"Female","Married","Caucasian","Non-Hispanic or Latino","English",0,13138.472,51172.5066666667,513.1255556,147,73.9638644416334
+300879,59,"Female","Married","Caucasian","Non-Hispanic or Latino","English",128,42462.897,56935,837.0872222,161.925,61.0535
+301085,50,"Male","Married","Asian","Non-Hispanic or Latino","English",79,24777.6239086905,44475,463.352958211752,182.88,90.6716048206638
+301614,63,"Male","Married","Caucasian","Non-Hispanic or Latino","English",27,13063.090768,24784,208.560172825447,179.477251634615,120.383
+301738,61,"Female","Unknown","Caucasian","Non-Hispanic or Latino","English",267,24849.7293703372,43251,662.313124696599,173.99,82.517731674
+302089,42,"Female","Married","Caucasian","Non-Hispanic or Latino","English",12,26350.239,47188,593.854082296432,160.02,79.7868
+302472,24,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",14,16815.2964329367,22835,262.993751445222,159.921464740104,52.7981
+302575,39,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",166,15355.506,32653,312.0086111,153.67,76.4584573962646
+303186,28,"Male","Unmarried","African American","Non-Hispanic or Latino","English",14,3921.645,9068,105.2583333,176.028282,94.652898
+303745,37,"Female","Unmarried","Other","Non-Hispanic or Latino","English",8,14545.741,20146,265.011416671733,153.035,87.5886
+304001,62,"Female","Married","Caucasian","Non-Hispanic or Latino","English",120,37224.159,47237.363,401.8611111,167.64,116.755
+304309,51,"Female","Married","Caucasian","Non-Hispanic or Latino","English",174,47866.0788987015,76220,1057.809167,162.3397273,105.0367833
+304442,52,"Female","Married","Caucasian","Non-Hispanic or Latino","English",278,33291.836,86631,848.8161111,162.58920588526,65.544
+304468,51,"Male","Married","African American","Non-Hispanic or Latino","English",164,43379.779105,89295.87,959.1986111,170.252248333333,89.5938151326084
+304629,34,"Female","Married","Caucasian","Non-Hispanic or Latino","English",67,49903.3774383094,79395.9046813095,1095.823611,167.885121139768,85.4849148208729
+304659,20,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",96,4050.793,8647,184.503892795456,166.240303333333,74.9354445150117
+304951,46,"Male","Married","Asian","Non-Hispanic or Latino","English",137,17461.8908259524,18551,364.190632137643,168.91,106.73
+305110,44,"Female","Married","Asian","Non-Hispanic or Latino","English",275,35596.271960106,71507,746.384606374994,160.92635,75.99572579705
+305225,51,"Female","Married","Other","Non-Hispanic or Latino","English",46,14198.553492,26996,381.13575972566,162.25098,73.3227920965667
+305765,44,"Female","Married","Caucasian","Non-Hispanic or Latino","English",188,21779.623,37025,411.1655556,160.02,66.7687
+305922,19,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",150,142780.886,106669.584642857,935.016530037847,176.050207590556,98.0035223714286
+305957,47,"Male","Married","Caucasian","Non-Hispanic or Latino","English",0,47752.2841007106,78623,758.2930556,163.83,84.6755720869048
+306015,36,"Male","Married","Caucasian","Non-Hispanic or Latino","English",0,30689.808,59457.747,721.6602778,175.26,78.1085
+306730,63,"Female","Married","Caucasian","Non-Hispanic or Latino","English",115,40269.132,48785,576.487973609203,167.64,101.063256617944
+306877,27,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",254,42110.0980274703,64511.8499110231,779.9411111,170.18,73.618
+307135,27,"Female","Unknown","Caucasian","Non-Hispanic or Latino","English",111,28856.4221137641,57844.3598235354,695.028992788543,161.29,64.6822
+307838,53,"Male","Unmarried","African American","Non-Hispanic or Latino","English",3,34185.3972387144,51929,652.10651064826,170.18,83.4609178098514
+308668,50,"Male","Married","Caucasian","Non-Hispanic or Latino","English",79,8275.88740166666,17934.2313281015,124.4702778,174.323547833333,95.599486944892
+308818,46,"Male","Married","African American","Non-Hispanic or Latino","English",73,9203.461,41715.3519219173,274.248990044587,187.96,157.215
+309212,62,"Female","Married","Caucasian","Non-Hispanic or Latino","English",171,39531.477,70419.7425293452,933.78,163.518789522031,57.6515
+310084,41,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",9,8333.64,6858,147.1520021677,165.502538333333,84.3748156938792
+310122,44,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",282,104437.829,120159.520087048,945.514970503222,168.91,103.827
+310151,38,"Male","Unmarried","Other","Non-Hispanic or Latino","English",62,115534.048,301255,990.1138889,170.308605808799,80.4219
+311607,38,"Male","Unmarried","African American","Non-Hispanic or Latino","English",0,12731.889,13560,149.0375,177.900221765019,99.1862189163334
+312030,68,"Female","Married","Other","Non-Hispanic or Latino","English",287,7991.755,20851,181.3755556,164.919529714286,76.5292977683823
+312488,24,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",149,5976.856,38578.2555228747,341.45520269136,160.674686904762,80.059
+312522,70,"Male","Married","Caucasian","Non-Hispanic or Latino","English",119,46758.804,79861.182,814.035089027115,182.245,85.74516975
+312544,52,"Female","Married","Caucasian","Non-Hispanic or Latino","English",0,27087.58,55154.1401477655,676.646193987098,149.86,73.2072250879976
+312749,50,"Female","Married","Asian","Non-Hispanic or Latino","English",79,29081.823,54447,723.315021675246,172.001,57.6515
+313739,45,"Female","Unmarried","African American","Non-Hispanic or Latino","English",0,13212.4559275,29923.324,102.4711111,165.048368910478,81.7325155917
+314019,33,"Male","Unknown","Asian","Non-Hispanic or Latino","English",112,35362.0790406381,44733,641.8491667,178.473461384409,81.158420667
+314077,46,"Female","Unmarried","Other","Hispanic or Latino","English",45,30655.908,61279.02,745.932225210067,169.545,86.8629
+314487,49,"Female","Married","African American","Non-Hispanic or Latino","English",139,50320.601,72883.0438856944,896.0111111,150.495,87.6000990056404
+314758,22,"Female","Unmarried","African American","Non-Hispanic or Latino","English",0,17321.6766496856,35829.5978147654,66.70333333,164.391355413103,65.4987
+315264,66,"Male","Married","Caucasian","Non-Hispanic or Latino","English",187,21060.195,26841,297.8019444,180.975,87.9968
+315577,36,"Male","Unmarried","Caucasian","Hispanic or Latino","English",80,109242.972,129135.206666667,1026.992778,176.758236713388,69.3996
+316643,68,"Female","Unmarried","African American","Non-Hispanic or Latino","English",133,8843.689,14815.8183333333,160.0205556,167.325172763494,91.7223471566295
+316890,32,"Male","Unmarried","African American","Non-Hispanic or Latino","English",158,31422.9201333333,57709.8630936076,674.521079222813,182.245,105.7569764167
+318006,66,"Female","Married","Caucasian","Non-Hispanic or Latino","English",332,41453.0784080083,76798,847.056278279633,154.305,67.177
+318516,41,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",279,56731.664,65367,923.946763980327,175.422338921869,81.1476
+319124,36,"Female","Unmarried","African American","Non-Hispanic or Latino","English",99,28058.2109695839,57961.8287937226,674.324553525226,160.02,82.3723
+319589,40,"Female","Unmarried","African American","Hispanic or Latino","English",147,37540.194,53783.28,632.2116667,165.1,90.0834
+320294,22,"Male","Unmarried","African American","Non-Hispanic or Latino","English",0,42132.6843475,58883,813.7358333,176.53,115.666
+320529,42,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",4,54005.296,72781,969.7725,190.5,88.1329
+320861,60,"Female","Married","Asian","Non-Hispanic or Latino","English",47,53830.1390677559,149534,975.5186111,165.1,70.0031653999733
+321544,51,"Male","Married","Caucasian","Non-Hispanic or Latino","English",349,8468.18342566667,8994,188.983796407031,175.26,95.6829124285798
+321738,55,"Female","Married","African American","Non-Hispanic or Latino","English",0,47040.583,75705.4388333333,886.298840592739,170.18,91.0040482500805
+321786,24,"Male","Unmarried","Asian","Non-Hispanic or Latino","English",79,45020.5368916667,63223,868.0252778,179.07,83.0648199361986
+321934,51,"Female","Married","Asian","Non-Hispanic or Latino","English",364,19225.494,72217.9609523809,585.7322222,155.575,68.7645
+322751,47,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",0,10371.7258237922,4501,175.333752329395,165.732435,73.8448
+322939,35,"Female","Married","African American","Non-Hispanic or Latino","English",409,57091.8550220494,88255,1045.256111,169.971703363755,100.8526382831
+322986,32,"Female","Unmarried","African American","Non-Hispanic or Latino","English",266,30981.0344837874,49457,629.8833333,168.7588182,86.0272
+324457,27,"Female","Unknown","Asian","Non-Hispanic or Latino","English",356,40772.2249033333,81307,754.069837841192,159.476423491855,57.9101
+325055,59,"Male","Married","Caucasian","Non-Hispanic or Latino","English",0,65402.239,95200.3684795139,853.309426880167,175.004432717604,95.9291129375
+325335,39,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",0,33922.2861202175,70997.1574748141,707.540225885519,167.366269109883,73.6670748794083
+325621,54,"Male","Married","Caucasian","Non-Hispanic or Latino","English",21,23911.063,45891.6694369968,541.0402778,176.286974861854,92.2995708299204
+325998,57,"Female","Married","Caucasian","Non-Hispanic or Latino","English",0,3.398,22,186.057496713101,170.18,76.27906667
+326030,50,"Male","Married","Asian","Non-Hispanic or Latino","English",75,35189.4973523298,55875.0715278114,726.937973174354,170.974073972849,74.36008571
+326540,47,"Male","Unmarried","Other","Non-Hispanic or Latino","English",42,40020.3060614992,64748,757.48600014249,176.733827727273,95.6137533416649
+326677,51,"Female","Married","African American","Non-Hispanic or Latino","English",231,28658.2678363932,58501,634.361300906086,166.37,85.8196
+327879,30,"Female","Unmarried","Other","Hispanic or Latino","English",115,23380.825,61039,514.495567774627,165.733201601479,77.7255028334667
+327953,69,"Female","Married","Caucasian","Non-Hispanic or Latino","English",0,22484.0547252978,36124.1688259554,395.9608333,161.925,83.2341
+329015,32,"Female","Unmarried","African American","Non-Hispanic or Latino","English",219,7826.61443178572,14,0.1075,165.479071399672,77.9826748640027
+329069,21,"Female","Unmarried","Asian","Non-Hispanic or Latino","English",0,27194.443,47422.7416666667,578.353432634583,158.276652857,63.0674962115851
+329083,51,"Female","Unmarried","Caucasian","Non-Hispanic or Latino","English",110,27921.226,69486,1004.380278,162.295345416667,78.4127232777082
+329167,51,"Female","Unmarried","Other","Non-Hispanic or Latino","English",0,723.863,1698,90.5209571670717,162.261256777778,80.8017561292334
+329479,45,"Female","Married","Asian","Non-Hispanic or Latino","English",93,16012.9,41145,449.426261120667,162.56,62.505
+329481,70,"Female","Married","Caucasian","Non-Hispanic or Latino","English",97,7329.976,24821.9090816518,242.2005556,164.582861414511,75.8617713669
+329612,46,"Female","Married","Asian","Non-Hispanic or Latino","English",99,22489.397,45348.6706729762,527.1216667,159.503107,60.8947
+330227,52,"Male","Married","Asian","Non-Hispanic or Latino","English",25,51642.286,73731,1066.893333,173.788006086034,84.684252826551
+330366,52,"Male","Married","Caucasian","Non-Hispanic or Latino","English",65,44676.2453466667,60199,807.2636111,177.863,96.1176478655558
+330459,37,"Female","Married","Caucasian","Hispanic or Latino","English",102,59225.295,87836.255,1032.225,171.066906348323,97.9759
+330577,56,"Male","Married","Caucasian","Non-Hispanic or Latino","English",111,18698.8573973334,31801.1846784724,301.8877778,178.470274771315,100.879
+330880,53,"Female","Married","Asian","Non-Hispanic or Latino","English",82,20734.693,52967.6007921861,552.407442071,161.194326666667,69.9612314089119
+331719,38,"Male","Married","Caucasian","Non-Hispanic or Latino","English",33,53582.5148175,103135.43,980.4061111,171.907077634695,92.288026079446
+332183,53,"Female","Married","Caucasian","Non-Hispanic or Latino","English",257,42396.1259178218,90176.5028650631,1039.170278,160.02,68.0388
+332439,35,"Male","Unmarried","Caucasian","Non-Hispanic or Latino","English",148,30059.604,43073.29,338.1166667,186.69,100.893956519571
+332711,55,"Female","Married","Caucasian","Non-Hispanic or Latino","English",85,42977.2537266667,67853,858.379515317143,169.545,81.72264926653
+333011,21,"Male","Unknown","African American","Non-Hispanic or Latino","English",0,558.041,413,181.532363263542,183.515,109.18
+333114,54,"Female","Married","Caucasian","Non-Hispanic or Latino","English",85,33852.366,65005,815.289898651381,162.2901142468,75.9765702758254
+333194,39,"Female","Unmarried","African American","Non-Hispanic or Latino","English",40,6782.331,14778,157.629911586003,164.254491666667,80.8602105558
+333698,47,"Male","Married","Caucasian","Non-Hispanic or Latino","English",96,88375.335,130145.905312381,1116.389722,170.846178892019,96.0708
+334293,52,"Male","Married","Caucasian","Non-Hispanic or Latino","English",125,51534.6689460254,71036,786.953111129836,177.8,66.9048
