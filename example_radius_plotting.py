@@ -14,12 +14,12 @@ from pathlib import Path
 # Add the current directory to the path so we can import our modules
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 
-from plotting import DRGPlotter
+from plotting import DRGPlotter, load_drg_results
 
 
 def load_results_from_directory(results_dir: str):
     """
-    Load results from a results directory.
+    Load results from a results directory (legacy function for backward compatibility).
     
     Args:
         results_dir: Path to results directory
@@ -91,24 +91,25 @@ def main():
     """Main function to demonstrate on-demand radius plotting."""
     
     # Configuration
-    results_dir = "results_test_01"  # Change this to your results directory
+    results_file = "results_test_01/drg_results.pkl"  # Path to the saved results file
     plots_dir = "plots_test_01"      # Change this to your plots directory
     
     print("DRG On-Demand Radius Plotting Example")
     print("=" * 50)
     
-    # Check if results directory exists
-    if not os.path.exists(results_dir):
-        print(f"Results directory '{results_dir}' not found.")
+    # Check if results file exists
+    if not os.path.exists(results_file):
+        print(f"Results file '{results_file}' not found.")
         print("Please run the main analysis first using: python main.py --config config.json")
         return
     
-    # Load results
-    print(f"Loading results from {results_dir}...")
-    results = load_results_from_directory(results_dir)
-    
-    if not results:
-        print("No results found. Please run the main analysis first.")
+    # Load results using the new function
+    print(f"Loading results from {results_file}...")
+    try:
+        results = load_drg_results(results_file)
+        print("✓ Results loaded successfully")
+    except Exception as e:
+        print(f"Error loading results: {e}")
         return
     
     # Create plotter

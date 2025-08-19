@@ -230,9 +230,15 @@ class DRGAnalyzer:
         self.results['complexity_table'].to_csv(f"{output_dir}/complexity_scores.csv", index=False)
         self.results['radius_table'].to_csv(f"{output_dir}/radius_scores.csv", index=False)
         
+        # Save complete results in pickle format for easy loading
+        import pickle
+        results_file_path = f"{output_dir}/drg_results.pkl"
+        with open(results_file_path, 'wb') as f:
+            pickle.dump(self.results, f)
+        logger.info(f"Saved complete results to {results_file_path}")
+        
         # Save distance tables for plotting functionality
         if self.distance_tables:
-            import pickle
             distance_tables_path = f"{output_dir}/distance_tables.pkl"
             with open(distance_tables_path, 'wb') as f:
                 pickle.dump(self.distance_tables, f)

@@ -19,6 +19,25 @@ plt.style.use('seaborn-v0_8')
 sns.set_palette("husl")
 
 
+def load_drg_results(results_file_path: str) -> Dict:
+    """
+    Load DRG results from a saved pickle file.
+    
+    Args:
+        results_file_path: Path to the drg_results.pkl file
+        
+    Returns:
+        Dictionary containing the complete DRG results
+    """
+    if not os.path.exists(results_file_path):
+        raise FileNotFoundError(f"Results file not found: {results_file_path}")
+    
+    with open(results_file_path, 'rb') as f:
+        results = pickle.load(f)
+    
+    return results
+
+
 class DRGPlotter:
     """
     Class for generating DRG analysis plots.

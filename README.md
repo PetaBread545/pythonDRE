@@ -64,9 +64,12 @@ During the main analysis, the system automatically saves:
 ### Basic Usage
 
 ```python
-from plotting import DRGPlotter
+from plotting import DRGPlotter, load_drg_results
 
-# Load results and create plotter
+# Load results from saved file
+results = load_drg_results("results_analysis/drg_results.pkl")
+
+# Create plotter
 plotter = DRGPlotter(results, "plots_dir")
 
 # Get available plotting options
@@ -100,7 +103,7 @@ python example_radius_plotting.py
 ```
 
 This script demonstrates:
-- Loading results from a previous analysis
+- Loading results from the saved `drg_results.pkl` file
 - Loading distance tables for detailed plotting
 - Getting available plotting options
 - Creating various types of radius distribution plots
@@ -109,14 +112,13 @@ This script demonstrates:
 
 ### Loading Results from Previous Analyses
 
-You can load and analyze results from previous DRG analyses:
+You can load and analyze results from previous DRG analyses using the saved results file:
 
 ```python
-from example_radius_plotting import load_results_from_directory
-from plotting import DRGPlotter
+from plotting import DRGPlotter, load_drg_results
 
 # Load results from a previous analysis
-results = load_results_from_directory("results_previous_analysis")
+results = load_drg_results("results_previous_analysis/drg_results.pkl")
 
 # Create plotter with loaded results
 plotter = DRGPlotter(results, "new_plots_directory")
@@ -129,6 +131,21 @@ fig = plotter.plot_on_demand_radius(
     radius=0.1,
     save=True
 )
+```
+
+### Alternative Loading Method (Legacy)
+
+For backward compatibility, you can also load results from individual CSV files:
+
+```python
+from example_radius_plotting import load_results_from_directory
+from plotting import DRGPlotter
+
+# Load results from individual files
+results = load_results_from_directory("results_previous_analysis")
+
+# Create plotter with loaded results
+plotter = DRGPlotter(results, "new_plots_directory")
 ```
 
 ### Plot Features
@@ -255,6 +272,7 @@ python main.py --config config.json --verbose
 ## Output Files
 
 ### Results Directory
+- `drg_results.pkl`: Complete analysis results (recommended for loading)
 - `drg_scores.csv`: Main DRG scores for each file
 - `complexity_scores.csv`: Scores broken down by complexity
 - `radius_scores.csv`: Scores broken down by radius
@@ -265,9 +283,9 @@ python main.py --config config.json --verbose
 - `plotting_metadata.json`: Available plotting options and metadata
 
 ### Plots Directory
-- `drg_scores.png/pdf`: Bar plot of DRG scores by file
-- `complexity_scores.png/pdf`: Bar plot of scores by complexity
-- `radius_scores.png/pdf`: Bar plot of scores by radius
+- `drg_scores.png/png`: Bar plot of DRG scores by file
+- `complexity_scores.png/png`: Bar plot of scores by complexity
+- `radius_scores.png/png`: Bar plot of scores by radius
 - `drg_summary_plots.png`: Comprehensive summary plots
 - `radius_distribution_*.png`: On-demand radius distribution plots
 - `plotting_metadata.json`: Available plotting options
