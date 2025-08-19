@@ -449,7 +449,7 @@ class DRGPlotter:
         if save:
             # Create filename based on parameters
             safe_filename = key_parts[0].replace('/', '_').replace('\\', '_')
-            plot_filename = f"radius_distribution_{safe_filename}_target{actual_target}_comp{actual_complexity}_rad{actual_radius}.png"
+            plot_filename = f"radius_distribution_{safe_filename}_target{actual_target}_complex{actual_complexity}_radius{actual_radius}.png"
             plt.savefig(f"{self.output_dir}/{plot_filename}", dpi=300, bbox_inches='tight')
         
         return fig
